@@ -1,10 +1,12 @@
 """
 Defines the cell lineage tree and how it is optimized.
 """
+import time
 
 import numpy as np
 import graphviz
 import warnings
+import random
 
 from src_python.tree_base import PruneTree
 from src_python.utils import load_config_and_set_random_seed
@@ -317,8 +319,7 @@ class CellTree(PruneTree):
                     self.current_llr_max_without_anchor = original_max_without_anchor
 
             # print(best_targets, best_joint)
-            return np.random.choice(
-                best_targets), best_joint
+            return np.random.choice(best_targets), best_joint
 
         for anchor in self.pruned_roots():
             subroot = self.children(anchor)[0]

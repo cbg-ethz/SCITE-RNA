@@ -17,7 +17,8 @@ void generate_sciterna_simulation_results(const std::string& path,
                                           const std::vector<std::string>& tree_space,
                                           bool flipped_mutation_direction,
                                           int n_keep,
-                                          int n_rounds);
+                                          int n_rounds,
+                                          bool insert_nodes);
 void generate_sciterna_results(
         const std::vector<std::vector<int>>& ref,
         const std::vector<std::vector<int>>& alt,

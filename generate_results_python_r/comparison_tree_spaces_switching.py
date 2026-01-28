@@ -1,7 +1,7 @@
 """
 Script used to compare different modes of tree optimization. These are optimizing only in the mutation tree space (m),
 optimizing only cell lineage trees (c) and alternating between the two spaces, starting either in the cell lineage
-space (c,m) or in the mutation tree space (m,c).
+space (c, m) or in the mutation tree space (m, c).
 """
 
 import os

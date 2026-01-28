@@ -1,0 +1,24 @@
+name: r_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-base>=4.3
+  - r-ggplot2
+  - r-ape
+  - r-phangorn
+  - r-treetools
+  - r-dplyr
+  - r-data.table
+  - bioconductor-ggtree
+  - r-argparse
+#  - r-remotes
+#  - r-rjava
+#  - zlib
+#  - openjdk=11
+#  - xz
+#  - bzip2
+#  - liblzma
+#  - biopython
+# had to install some packages manually

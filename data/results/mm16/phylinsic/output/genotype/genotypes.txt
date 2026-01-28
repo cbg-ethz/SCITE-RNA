@@ -1,0 +1,1179 @@
+SNV	Cell1	Cell2	Cell3	Cell4	Cell5	Cell6	Cell7	Cell8	Cell9	Cell10	Cell11	Cell12	Cell13	Cell14	Cell15	Cell16	Cell17	Cell18	Cell19	Cell20	Cell21	Cell22	Cell23	Cell24	Cell25	Cell26	Cell27	Cell28	Cell29	Cell30	Cell31	Cell32	Cell33	Cell34	Cell35	Cell36	Cell37	Cell38	Cell39	Cell40	Cell41	Cell42	Cell43	Cell44	Cell45	Cell46
+SNV1	R	R	R	R	R				R	R	R	R	R	R	R	R		R	R	R	R	R	R	R	R							R	R		R	R		R	R					R		
+SNV2	A	A		A					A	A	A		A	A		A	A			A	A		A												A				A							
+SNV3	A		A	A	A		A		A	A	A	A	A	A		A	A	A					A	A				A	A			A				A		A						A		
+SNV4	R		R	R	R				R	R	R	R	R	R		R	R	R					R		A						A	R			A	R								R		
+SNV5	R		R		R				R	R	R		R	R		R	R						R		A	A					A	R			A	R								R		
+SNV6	R		R	R			R		R	R	R	R	R	R			R	R				R	R	R	A	A					A	R			A	H		R	A					A		
+SNV7	A	A		A	A	A		A	A	A	A	A	A	A	A	A	A	A	A			A	A	A	A	A	A		A		A	A		A	A	A								A	A	A
+SNV8	R	R		R	R				R	R		R	R	R		R			R							A			R						A	R		R								
+SNV9	A	A	A	A	A			A	A	A	A	H	A	H	A	A	A	A	A	A		A	A	A	A	A			A		A	A		A	A	A			A					A	A	A
+SNV10	A	H	A	A	A				A	A	A	H	A	A	A	A	A	A	A	A		A	A	A	A	A					A	A	A	A	A	A			A					A	A	A
+SNV11	A	A	A	A					A	H	A		A	A		A		A		A	A		A			R									A	R			A							
+SNV12	A		A		A		A		A	A	A	A	A	A		A	A						A	A								A			R	A								A		
+SNV13	A		A	A	A		A		A	A	A	A	A	A		A	A						A	A	R	R		A			R	A				A		A	R					A		
+SNV14	A		A	A			A		A	A	A	A	A			A	A						A	A	R	R					R	A			R	A			R					H		
+SNV15	A		A	A	A		A		A	A	A	A	A	A		A	A	A	H		A	A	A	A	R	R			A		R	A	A	A	R	H		A	R	A				H		
+SNV16	A		A		A		A			A	A	A		A		A	A						A									A				A		A								
+SNV17	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A		A	A	A	A	A			A	A	A		A	A	A	A	A
+SNV18	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A			A	A	H	A		A	A	A	A	A			A	A	A		A	A	A	A	A
+SNV19	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		R	R	A	A	A			A		A				A		R						
+SNV20	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		R		A	A	A			A		A				A	A							
+SNV21	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		R	R	A	A	A			A		A					A							
+SNV22	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		R	R	A	A	A			A		A					A	R						
+SNV23	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		R		A	A	A			A		A												A
+SNV24	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		R		A	A	A			A		A												
+SNV25	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A						A			A														
+SNV26	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		R				A			A														R
+SNV27	A		A		A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				A		A					A											R	
+SNV28	A		A		A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				A		A					A											R	
+SNV29	A		A		A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				A		A					A											R	
+SNV30		A	A		A											A	A		A			A	A					A				A		A	A									A	A	A
+SNV31		A	A		A											A	A	A	A			A	A		A		A					A	H	A	A						R			A	A	A
+SNV32	A	A	A	A	A		A	A	A		A	A	A		A	A	A	A	A	A	A	A	A			A	A				A	A	A	A	A			A		A				A	A	A
+SNV33	A	A	A	A	A	A	A	A	A		A	A	A	A	A		A	A		A	A	A																							A	
+SNV34	R	R	R	R		R		R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	A		R	R	R			A	R		R		A				A					R	
+SNV35			R		R				R	R			R	R		R		R			A		R		R	R		R	R							R			R							
+SNV36				H					H		H	A				H		H		H			H					R	H			R		H	H					H						
+SNV37	A			A		A		A			A	A			A				A		A	A						A	A																	
+SNV38	A			A		A		A			A	A			A				A		A	A						A	A																	
+SNV39	A		A	A				A				A			A				A	A								A	A						A									A		
+SNV40	A			A				A		A	A	A		A	A				A	A		A						A	A					A	A									A		
+SNV41	A	A		A		A		A		A		A	A				A	A	A	A	A	A	A					A				A											A			
+SNV42		A		A			A	A	A	A	A	A	A			A	A	A	A	A	A		A								A				R											
+SNV43		A		A			A	A		A			A			A	A	A	A	A	A		A																							
+SNV44	A	A		A	A			A	A		A	A	A		A	A		A	A	A	A		A	A		R									R									R		
+SNV45					A				A	A	A					R	A		A	A				R			A	A								A		R	R							
+SNV46			R	R				R			R				R	R				R					R								H		R									R	R	
+SNV47			A	A				A			A				A	A		A		A					R								A		R									R	A	
+SNV48				H				R		H	H				A	R					H	H	R					R				R				H			R							
+SNV49					A				A		A						A	A		A		A		A			A	A			A	A	A	A											A	
+SNV50					A		A	A	A						A	A	A	A	A	A	R	A	A		A										A	A										
+SNV51		A			A	R	A	A	A		A				A	A	A	A	A	A		A	A	A											A	A								A		
+SNV52	R	R	R	R			R	R	R		R		R		R	R	R	R	R	R	R	R	R	A		R	R	R				R		R	R	H				R				A		
+SNV53								R	R		R		R			R		R		R												R	R	R									R	R		
+SNV54	A		A	A	A		R		A	A	A		A		A	A	A		A	A	A	A	A	A		A												A		A				R	A	
+SNV55	R		R	R	H		A		R		A	R	R		R	R	R	R	R		R		A				R	R				R		R				R								
+SNV56	R		R	R	R							R	R	R	R	R		R	R		R		R	R	R							R														
+SNV57	R					R	R	R		R		R	R			R			R	R	R		R				A								R											
+SNV58	R				R		R	R	R	R		R	R			R			R	R	R	R		A	R		R							R	A			A		A				A		
+SNV59		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A			A	A		H		A			A					A	A	
+SNV60				A	A			A	A						A		A			A						A		A				A			A	A								A	A	
+SNV61	A	A		A			A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A		A	A	A	A			A	A	A	A		A		A	A	A		A		A	A	A
+SNV62		A		H		R	R		A		H	A	R	R	R	H		A		H	A	A	H									A		A									R			
+SNV63		A		H			R	A	A		A	A	R	R	R	H		A	R	H	A	A	H		R							A		A	R	A				R			R			
+SNV64		A		H			R	A	A		H	A		R	R	A		A		H	A	A	H		R						R	A		A									R			
+SNV65		A		A			A	A	A		A	A		A	A	A		A		A	A	A	A								R	A		A									A			
+SNV66		A		A			A	A	A		A	A		A	A	A		A		A	A	A	A								R	A		A									A			
+SNV67		A		A			A		A		A	A	A	A	A	A		A		A	A	A	A							A		A		A									A			
+SNV68		H		H			R		A		H	A		R	R	A		A		A	A	A	A									A		H									R			
+SNV69	R	R		R	R			R	R	R	R				R	R	A	R	R	R		R	R	R																	R					
+SNV70	A	A	A		A	A		A			A				A	A	A	A	A	A		A	A						A																	
+SNV71				A				A		A	A		A	A		A	A	A				A		A			A							A												
+SNV72		H	A		R		R		R	H	R	R	R	R	A	A	H	A																	R					R						
+SNV73	A	A	A		A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A		A	A												A					A		
+SNV74	H	R					R	H	A		R		R	R		A	R	R	H	R												A														
+SNV75		R	H		A		R			R	R	A	R		A	H		R					R						R																	
+SNV76		R	H		H		R			R	R	A	R		H	H							R						R																	
+SNV77	A	A	A	A	A	A	A			A	A	A	A	A	A	A	A	A	A		A		A						A				A									A	A		A	A
+SNV78	A	A	A	H	A		R	H	H	A				H		H		R	R	R			H				A	R						R	A										A	
+SNV79			R		R	R	A	H						A	A		R															R		R	R					A					A	
+SNV80	A	R	R					A		A	R		R	R		R		A				R		R															A							A
+SNV81	A	A			A		A	A		A				A	A	A				A			A		A						A				A				R							
+SNV82	H	A	H	R	R	R	A	H	A	A	A	R	H	H	H	A	H	R	A	H	H	A	R	H	A	A	A	R				R			A			R			R			A		
+SNV83	H	R	H	A	A		H	H	R	R	R	A	R	R	A	R	H	R	R	H	A	R	A	A		R		A				A								R				R		
+SNV84	H	R	H	A	A		H	H	R	R	R	A	R	R	A	R	H	R	R	H	A	R	A	A		R		A				A								R				R		
+SNV85	A	A			A	H	A	R				A				R	R	H		R	R	R						R	A			R		A				R	R	R				R	R	
+SNV86	R	R			R	R	R	A									A	R		A		A	R									H						A	A	A				R		
+SNV87	R	R			R	R	R	A									A	R		A		A	R									H		R	A			A	A	A				R		
+SNV88		A			A	R	R			R		A					R	A				R										R		A				R	R					A	A	
+SNV89	H	A		R		A		H	R	H	A	A				R		A	A	A	R		A								A	A														
+SNV90		R	A	A	R		H	H		A	A	A			A		A		R			R	R				A							H					A							
+SNV91	A	A	A	A	A		A	A		A	A	A			A	A	A	A	A	A	A	A	A		A		A		A					A		A			A					A		
+SNV92		A	A		A	A	A	A		A	A	A	A			A	A		A	A		A	A				A							A				A							A	A
+SNV93	R	A	R		A		R	A	A	A	A			R	R	H		R	R	R	A		R		A							R														
+SNV94	H	A	R		A		R	A	A	A	A			R	R	H		R		R	A		R		A							R														
+SNV95	R				R					R		R	R			R	R	R		H			R	R			R												R							
+SNV96	A						A			A	A	A	A	A		A	A		A	A		A	A				A		A		A	A						A							A	A
+SNV97	H						H	H		R	H	H	A	H		H			H	H		H	H				H		A		R	H		R				A							H	H
+SNV98			R					R			A			A		A	R		R	R		A					R		A					A	R									A		
+SNV99			R					R			A			A		A	R		R			A			A		R		A			A		A	R				R					A		
+SNV100	R		R		R		R		R	R	A		A	R	R	R	R	R		R	R		R	A			R							R		A									R	
+SNV101	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A		A	A		A					A		A			A					A	A	A
+SNV102	A	A		A	A	R		A		A				A	A		A	A		A	A	A	A																					A		A
+SNV103	A		A	A	A	A		A		A	A		A			A	A	A		A	A	A	A					A	A			A													A	
+SNV104	A									A	A	A	A		A	A			A				A					A		A		A												A		
+SNV105	R			H	A		H	H	A		A								H	A	H	R	R									H				H										
+SNV106	R				R	R				R			R			R			R	A	R		R			R								R											R	
+SNV107	H	A	R		R		A	A	A	A	R	A	A		A		R			R		A	A		A						R			A	A											
+SNV108	R			R	R		R	R						R			H	A	R	R	A						R	A				R				A		R								
+SNV109		A	A	A	A		A	A	A	A	A	A	A	A		A	A	A		A	A		A		A		A						A		A			A		A				A	A	
+SNV110	R		R	R	R					R				R	R	A	H	R			R	R	R				R								A											
+SNV111	A	A	A				A	A	A	A	A	A		A	A	A	A	A	A	A	A		A		A		A																			
+SNV112							A		A	A		A	A		A		A			A		A		A				A				A												A		R
+SNV113		R			R		R	R	A	R	R	A	R		R	R	R	R				R										R		R	R	R										
+SNV114		R			R		R	R	R	R	A	A	R		R	R	R	R				R										R		R	R	R										
+SNV115		H			A		R	R	A	R	A		A		R	R	R	R				H	R									R		H		R										
+SNV116	R		R				R		R						A			R	A				R					H				A		R				R	R					R	A	
+SNV117	A		A				A		A	A					A				A	A	A							A	A				A						A						A	
+SNV118	H		A	A	A	A	H		R			A		H	A	R		A	R	A	A		H	R		A	R	A	R		H			A	H				R					A	R	
+SNV119	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A			A	A	A
+SNV120	H	H	H	H	H	H	H	H	R	H	H	H	H	R	H	H	H	H	H	H	H	H	H	A	H	H	H	H	H	H	H	H	H	H	H	H	A	R	H	H	A		R	H	H	H
+SNV121	R	R					R				R	R	R		R	R	R			R		R		R				R				R			R	R		R	R	A						
+SNV122	H	A					R				H	H	H		H	H				R		H		H				H				H			H			R	H							
+SNV123	H	A									H	H	H		H	R						H		H				H				R			H			A	H							
+SNV124	A			H				H	R	A	A	R		R		A		R		R		R	A	A		A	A	A	A			R	A	H	H	A		A	R	H				A	H	A
+SNV125	A	A	A	A			A	A		A	A	A		A			A		A	A	A	A					A					A														
+SNV126	A	A	A	A			A	R		R	A	A		A			H		A	A	A	A					R					A								R						
+SNV127							R			R	R	R		R	R	R			R	R		R	R				R	R	A			R						R								
+SNV128	R	R	R		R		R			R	R	R		R	R	R				R		R	R				R	R				R						R							A	
+SNV129	R	R		R	A						R	H	H	H	A	A	A			A			A					A						A		R			A	R						
+SNV130	R			R							R	H	A	H	A	A							A					A						A					A							
+SNV131	H	H	R	R	R	H	A	A	R	H	H	H	H	A	H	H	H	H	H	H	A	R	H				R	H	A			R		H						A						R
+SNV132						A	R	A		R	R	R	A			H	R	R	R		R	R						H				A												A		
+SNV133	R			R				R	R	R	R				R		R	R				R	R					R	R						R	H										
+SNV134	R	H					H			A	R		R	R		R	A	A		R	R							A	A										A							
+SNV135	H	H	R	H	R		H	R	H	H	H	R	H	H	H	H	H	H	H	H	H	H					H					H			H				H	R						
+SNV136	A	A	A		A		A	A	A	A	A	A	A	A	A	A		R	A	H	A	A	A	H	A		A	A			A			A	A	R			A					A		
+SNV137	A	R	A			A		A	R	R	A	R	R			A	A	R	A	R	A	A	A								A													R		
+SNV138		A		A				A			H		A		R	R	A	R	R			A												H											A	A
+SNV139	R	R	R	R	R		R		R	R	A								R	R	R	R												R												
+SNV140	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A			A	A	A		A	A				A				A				A		
+SNV141	A	R	H		R		A	A	H	R	H	R	R	H	R	H	R	R	A	H	R	R	R	A			H	A	A		A	R				A				R				R		
+SNV142	A	H	A		R	R	A	A	H	R	H	R	H	A	R	H	R	R	A	R	R	R	R	A			H	A	A		A	R				A				R				R		
+SNV143	A	R	H		R	A	H	A	R	R	A	R	R	H	R	H	R	R	A	H	R	R	R	A			H		A			R				A				R						
+SNV144		A	A	A					A	R	R	A				R	A			A						R	R				R												A			
+SNV145		A	A	A					A	R	H	A				R	A			A						R																	A			
+SNV146	A	A	H	A					A	R	R	A				R	A			A						R																	A			
+SNV147	A	A	R	R	A			R	R	R	R	R	R			H	A			H	R	A																								
+SNV148	A	A	R	R	A			R	R	R	R	R	R		A	H	A			H	R	A																								
+SNV149	A	A	R	R	A			R	R	R	R	R	R			H	A			H	R	A																								
+SNV150	A	A	R	R	A			R	R	R	R	R	R			A	A			H	R																									
+SNV151	H	H	A	A		A	H	R	A	A	R	R					A	R		A		R	R																							
+SNV152	R	H	A	A		A	H	R	A	A	R	R					A	R				R	R								R															
+SNV153	H	R	R	H		R	R	R	A	R	A	R						R				R																								
+SNV154	H	H	A	A		A	H	R	A	A	R	R						R				R																								
+SNV155	R		R	R	R		R	R				R			R		H	R	R			R										R														
+SNV156	A		A		A	A	A	A		A		A			A	A				A												A				A										
+SNV157	A	A	A	A	R	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	R	A				H	A	R	A	R	A		R	A	R				H	H	R
+SNV158	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A	A			A	A		A	A	A		A	A					A		
+SNV159	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				A	A		A		A		A	A					A	A	
+SNV160			R		R	R	R	R		R			R		R	R			R		R		R			R		R						A	R											
+SNV161							R	R		R	R						R		R		R	R	R		R						R	R							A							
+SNV162		A	A					A										A		A		A						A	A	A		A				A				R				R	R	
+SNV163				A			A			A	A	A				A	A	R		R				A			A				H	A		A										A		
+SNV164	A	A	A					A			A	A	A	A	A	A		A	A	A	A		A						A					A												R
+SNV165	A	A	A	A			A	A	A	A	A	A					A	A	A			A										A		A				A								
+SNV166		A	A		A		A	A	A	A	A	A	A	A			A	A	A			A			A	A						A		A				A						A		
+SNV167		A					A			A	A		A			A					A			A					A		A			A	A									A		
+SNV168	A				A		A	A		A	A		A	A	A	A		A		A	A	A	A	A	A	A	A	A			A	A		A	A	A			A					A		
+SNV169	A		A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A				A	A	A																	A
+SNV170				A				A		A		A			A	A	A			A									A						A				A		A			A		
+SNV171				R				R			R				R	R					R	R	R			R		R			A	R		R					R	R						
+SNV172	R	R	R		R	R		R			R	R						R	R	R	R	R		H				R																		
+SNV173	R	R	R	R							R	R							R	R	R	R	R	R				R										H								
+SNV174	R	A		R	A		A	H		A	R			A				R	R	R	R		R				R	R	A				R					R								
+SNV175		R			R		R	R		R	R		R	R				R	R	R	R		R						R									H						R		
+SNV176	A	A			A			A		A	A	A	A	A		A		A	A	A		A	A	A	A			A			A								A			A				
+SNV177	A	A			A			A		A	A	A	A	A				A	A	A	A	A	A					A								A			A							
+SNV178	A	A			A			A		A	A	A	A	A				A		A	R	A	A					A								R			A							
+SNV179	H		R	H				R	R		H				H	H	R		H	H							H	A			R			H		H			H				R		A	
+SNV180	A		A		A	A	A	A				A				A	A	A										A					A								A					
+SNV181	A	H	H			A		R	A	R	H	A	R	R	R	H	H	R	A		H	R							R		H				A	A			H	R				R		
+SNV182	A		A	A		A		A			A	A	A			A		A		A	A		A									A		A					A							
+SNV183	A		A	H	A			A		A	A	A		A		A	R	A			A	A	A						A			A		A	A									A		
+SNV184	A	R	A		A	A	A	A	R	A	A	A	A	A	A	A	A	A	R	A	A	A	A				A	A			A	A		A					A	A						
+SNV185	A	R	A	R	A		A	A	R	A	A	A	R	A	A	A	A	A	R	A	A		A		A		A	A			A	A		A						A						
+SNV186	A		A				A	A		A		A	A		A	A			A	R	A	A						A																		
+SNV187	R		R	R	R		R	R	R	H	R		H	R	H	H	H			R	R	R	R		R	R	R	R	R	R	R	R	R	R	R	R			R	R	R	R	R		R	H
+SNV188	A	A	A	A	A	A	A	A		A	A	R	A	A	H	A	A	A	A	A	A	A	A		A		A	A	A	H	R	A	R	A	R	H			A			A		R		
+SNV189	A	A		A	A	A		A	A	A			A			A	A	A	A	A	A	A		A			A							A		A			A	A				A		
+SNV190	A	A	A		A	A		A		A		A	A	A		A	A	A	A	A	A	A						A				A		A		A			A					A		
+SNV191	A	A						A		A			A	A	A	A				R					A	R	A				A	R		A						R					A	
+SNV192	R	R		R				R		R	R		R	R	R	R		R		R			R		R	R	A				R	R		R						R					R	
+SNV193	A	A		A				A		A	A		A	A	A	A		A		A		A	A		A	A	A				A	A	A	A						A						
+SNV194	R	R		R			R	R	R			R			R		R								A								R	R											H	
+SNV195	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R		R	R	R	R		R		R	R	R				R	R	
+SNV196			A		R		R				A	R	R		A	H	R	R				R	R												R				A							
+SNV197	A	A	A			A		A	A	A	A	A					A		A				A																							
+SNV198	R	R	H				H	R			H	H		H						H	R		H					H				H								R					R	
+SNV199	A	A	A	A			A	A	A	A			A	A	A	A		A	A		A	A	A		A		A	A	A		A	A		A		A		A	A					A		
+SNV200	R	A	R				R	R	R	R			R		R	R		R	R		H		R						R		R			R				H						R		
+SNV201	A	A		A			A	A		A						A				A								A				A		A	A				A						A	
+SNV202	R	R		R			R	R		R						R				R								R				R		R	A										R	
+SNV203		A	A				A	A		A	A		A	A		A				A		A								R										A						
+SNV204	R		R		R			R		A	R	R	R	R		A	A		H	R		A	H			R	H	R				H		R												
+SNV205							R	R		R	R	R	H	R		R	R			R		R		R												R										
+SNV206	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				A	A			A	A		A		A			A					A		
+SNV207	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				A	A			A	A		A		A			A					A		
+SNV208	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				A				A	A		A		A			A					A		
+SNV209	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				A				A	A		A		A			A					A		
+SNV210	A	A		A	A		A	A	A	A	H	A	A	A		A	A	A	A	A	A		A				A	A			A	A		A		A		A	A					A		A
+SNV211		A	A	A	A	A	A	A	A	A				A				A	A			A	A					A	A			A			A				A				A		A	
+SNV212		A	A	A	A	A	A	A	A	A				A				A	A			A	A					A	A			A	A				A		A				A		A	
+SNV213	A	A	A	A	A	A	A	A	A	A				A				A	A			A	A					A	A			A							A				A		A	
+SNV214	R			R	A	R			R	R						R			R		R											R			R				R						R	
+SNV215	A	A	A	A	A			A		A	A	A		A	A	A		A	A	A			A				A							A												
+SNV216	A	A	A	A	A	A		A		A	A	A		A	A	A		A	A	A			A				A							A												
+SNV217	A		A	A				A	A				A	A		A			A	A	A				A							A														
+SNV218	A	A	A	A				H	R		A		R	R		R			R	A	A		R									R		A										A		
+SNV219	H	R	A	A	A		A	R	R	H	A		R	A	R	A	H	A	A	R	H	H		A	R	A		A			A			A						A				A		
+SNV220	A	A	A	A	A	A	R	A	A	A	H	R	A	A	A	A	A	H	A	A	R	A	R		H	A	H	A	A	R	R	H	R	H	R		A	A	R	A		A	A	A	A	
+SNV221	H	H	H	A	H		H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H	H			R	R	H	H		H	A	H	R	H			R	R	H				H	R	H
+SNV222	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	H	A	A		R	A	R	A	R			A	R	A		A	A	A	A	R
+SNV223	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		R	A	A	A	H		A	A	A	A	A			A	A	A		A	A	A	A	A
+SNV224	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A		A	A	A	A	A			A	A	A		A	A	A	A	A
+SNV225	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A			A	A	A	A		H	A	A	A	A			A	A	A		A	A	A	A	A
+SNV226	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A		A	A	R	A	A			A	H	A		A	A	A	A	R
+SNV227	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A			A	A	A	A		A	A	A	A	A			A	A	A		A		A	A	A
+SNV228	R		A	R			R	R		R		R	R	A			H	R				R						R												R					R	
+SNV229		R	R		R		A	R		R	A	R	R	R	R	A		R	R		A		R				A					R								A						
+SNV230								A		A	A	A	A	A	A	A		A	A		A		A				A					A														
+SNV231	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A			A	A	A		A	A	A	A	A
+SNV232	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A		A	A	A	A	A
+SNV233	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A
+SNV234	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		R	R	A	A	A			A		A						R				A		R
+SNV235	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		R	A	A	A	A			A		A			A			A				A		R
+SNV236	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		R	R	A	A	A			A		A			A									
+SNV237	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		R	R	A	A	A			A		A	R		A									
+SNV238	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	R	R	A	A	A			A	R	A	R			A	A	R						A
+SNV239	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	R	R	A	A	A			A	R	A	R			A	A	R						R
+SNV240	A	A	A	A			A	A	A			A	A				A	A	A	A																										
+SNV241	A		A	A	A		A	A	A	A	A	A	A		A	A	A	A	A	A	A	A	A		R		A		A			A	R	A											R	
+SNV242	A	A	A	A	A		H	A	A		H	A	A	A	A	A	A	A	A	A	A	H	H		A				A			A														H
+SNV243	A		A	A	A		A	A	A	A	A	A	A		A	A	A	A	A	A	A	A	A				A		A		R	A	A	A				R				R			A	
+SNV244	A		A	A	A		A	A	A	A	A	A	A		A	A	A	A	A	A	A	A	A				A		A			A	A	A				R				R			A	
+SNV245	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		R		A	A	A			A	R	A				R							R	
+SNV246	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		R		A	A	A			A	R	A				R							R	
+SNV247	A		A	A	A		A	A	A	A	H	A	A		A	A	A	H	A	A	A	A	H				H		A			A		H												
+SNV248	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		R			A	A																	
+SNV249	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		R			A	A					R												R
+SNV250	R	R	R				R	H	H	A	R	R	A	R	A	R		R	R	A	R	R	R					A											A					A		
+SNV251		H	R	H				R	A	H	R	H		R		R	R				A								A																	
+SNV252		A	A	A				A	A	A	A	A		A	A	A	A				A								A																	
+SNV253	A				A		A		R				A	A				A		R			A									A				R									A	
+SNV254	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				A	A			A	A		A		A			A					A		
+SNV255	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				A	A			A	A		A		A			A							
+SNV256		R	R	R			R	R			R		R	R			R	R			H	R	R																							
+SNV257	R	R	R	R	R		R			R				R	R		R			R								R				R		R				R		A					R	
+SNV258		R			R		A	R	R		H		R				R	R	A	R			A				A	A				R		R	R											
+SNV259	A		A	A			A	A		A	A	A		A		A		A	A	A			A																A							
+SNV260	A	A	A	A	A					A					A	A				A			A												A				A							
+SNV261	A	A	A	A	A			A		A						A				A			A												A				A							
+SNV262	R		R	R	A			R		R		R				R	R			R			R												R				R							
+SNV263							A	A			A		A	A		A	A	A		A	A	A	A					A	A					A	A			A	A	A				A		
+SNV264	R	A	R	R					R	A	R		A	R	R	A	A	R	R	H	A		R				A	R	R			A		A	A			R	R							
+SNV265	A	H	H	R	H	H	A	H	R	R	R	H	H	R	R	H	A	H	A	A	A	R		R			H	R	R				R							R				A	R	
+SNV266	A	H	R						A	H	A	R	H		A	A	R	R					A	A			R																			
+SNV267		A	A					A		A		A	A	A		A	A						A					A				A											A			
+SNV268	A	A	A	A				A		R		A	A	A		A	A	A			A		A					A				A	R										A			
+SNV269	A	A	A	A				A				A	A			A	A	A			A		A					A				A											A			
+SNV270	H	H	A	R	A	R	H	H	R	R	A	H	H	R	H	A	R	H	H	H	H	R	H		R	H	A	R	A		R	A	R	R	R	R		R	R	A				R	R	
+SNV271		A	A	A	A	A	A	A			A	A		A	A	A				A		A	A		A		A							A						A					A	
+SNV272		A	A	A	A		A	A						A	A	A				A		A	A																						A	
+SNV273				R				R	R	R		R			R	R	R		R	R	R		R			R									R	A										
+SNV274	R		R	A			R	R		H	A	R	R			R		R	A	R		H	R						R																	
+SNV275	A	R	R	R	R			R		R				H				R	R		R	R				R									R					R						
+SNV276	H			R	R	R	R			A		A		R	R		R	R					R				R	R		R									A							
+SNV277	A	A		A			A	A	A	A		A	A	A	A	A	A	A	A	A			A											A	A											
+SNV278	A	A		A	A		A	A	A	A			A	A	A					A			A	A	A							A														
+SNV279	A	A	A		A		A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A				A	A	A			A		A				A								
+SNV280	R	R	R	R	R				R	R		R	R	R			R		R	R	R		R																							A
+SNV281		A				R		H	A	H								R		A		A	A		A			R																	A	
+SNV282	A		H	A					R	R		R		R		R		A			R		A					R						R	A	R			R							
+SNV283	A		A	A					A	A		A		A	A	H		A	A		A		A					A	A					A	A	A			A							
+SNV284		H		R	R		R		R	R	R	R	R	R	R	R	R		R	R		R	R	R															R					R		
+SNV285	A	A		A			A	A	A	A		A	A		A	A			A	A	A		A				A	A	A					A												
+SNV286	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		R			A	A					A												
+SNV287	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		R			A	A					A												
+SNV288	A	A	A	A	A		A	H	A	A	A	A	H	A	A	A	A	A	A	A	A	A	A		R				H																	
+SNV289	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		R			A	A			A		A												A
+SNV290	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		R		A	A	A			A		H												A
+SNV291	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		R		A	A	A			A		H												R
+SNV292	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	H	A		R				A			H		A												
+SNV293	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		R				A																	
+SNV294	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A						A			A														A
+SNV295	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A						A			A														R
+SNV296	A	A	A	A	A	A	A	A	A				A	A	A	A	A	A		A	A	A		A					A															A		
+SNV297	R		R	A	A	R	R	A	A	R	R	A			A	R	H	A	H		R	A	A	A				A											R	A					R	
+SNV298	R		R	A			R	A	A	R	R	A			A	R	H	A	H		R	A	A	A				A											R	A					R	
+SNV299	R		R	A			R	A	A	R	R	A			A	R	H	A	H		R	A	A	A				A											R	A					R	
+SNV300	H	H	R	R	R	A	R	H	R	H	R	A	A		R	H	A	R	H	A	R	A	A	R	H	R	A	A	H					A				R	A	R						
+SNV301	H	A	R	R	R	A	H	H	H	H	R	A	A	R	R	H	H	R	A	A	R	A	A		R		A		H					A	A			R	A	R				A		
+SNV302	H				A	A		H		R	H	R		H	H	R	A			R	R	A	A	A			R	R				R		R											A	
+SNV303	H	H	H	H	H	R	H	H	H	H	H	H	H	H	R	H	H	R	H	H	H	R	H	H	R	R	A	R	H		R	H		H	A	H		A	H		R	R		R	H	A
+SNV304	R	H	R	R	H		R	H	A		A	A		H		A	R	R	A		A	H			A			R				R		R								R		R		
+SNV305				H			R	R	R	R							R	R	R	R		R										R			R				R							
+SNV306				H			R	R	H	R						R	R	R	R	R		R										R			R				R							
+SNV307	A	A	A	A		A	A		A	A	A	A		A	A	A		A	A	A		A	A					A				A			A	A			A							
+SNV308			R	R	R		A			H		A					A		R		A	R	H				R																		R	
+SNV309			R	R	R		A			A		A				A	A		R		A	R	H																						R	
+SNV310	A	A	A	A	A	A	A	A	A		A	A	A		A		A		A	A	A	A		A					A		A									A						
+SNV311	A	A	A		A		A	A	A		A	A	A		A		A		A	A	A	A							A																	
+SNV312	A		A	A	A		A	A	A			A	A		A		A		A	A	A	A			A		A		A																A	
+SNV313	R		A					H				A			H			H	H		A	A						A	A					A									A			
+SNV314	R		H					H				A			H			H	H		A	A						A	A					A									A			
+SNV315	R		A	R				A		R	R				H		A	H	H			H	R					A	A			A				A							A		H	
+SNV316	R		A	R				H		R	R		A		H		A	R	H			H	R					A	A			A											A		H	
+SNV317	A	A		A		A		A	A				A			A		A		A			A					A																		
+SNV318	R	R	R	R					R	R	R		R			R			R		R			R	R		A																			
+SNV319		A	A	A				A		A	A		A		A	A	A	A	A	A		A		A	A			A																		
+SNV320	A	A	A		A					A	A		A	A	A	A	A	A					A					A				A														
+SNV321	A	A	A	A						A	A	A	A	A	A	A	A	A		A		A	A					A			A	A		A	A									A		
+SNV322	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A						A				A	A	A				A	A	
+SNV323	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A						A	A			A	A	A	A			A	A	A
+SNV324	A			H			R	R	A	A	R	H	R	R	A	R		A	R	A	A	R	R	R		R			R		A		A	A				R	H	R			R		H	
+SNV325	R		R	R	R			R	R	R		R	R		R	R				R		R							R						R	H			A						R	
+SNV326	A		R	A			A	R	A	R		A	A		A		A	H	A	A									H							R										A
+SNV327	A		A	A			A	A	A	A		A	A	A	A		A	A	A	A									A							A										A
+SNV328									A		A	A					A			A			A					A			A	A				A			A	A		A				
+SNV329									A		A	A			A		A			A			A	A				A			A	A				A			A	A		A				
+SNV330									A		A	A					A			A			A		A			A			A	A				A			A	A		A				
+SNV331									A		A	A					A			A			A					A			A	A				A			A	A		A				
+SNV332									A		A	A					A			A			A					A			A	A				A			A	A		A				
+SNV333	A						A	A		A	A	A	A	A		A		A	A			A	A					A								A										
+SNV334	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A			A	A		A			A	A		A	A	A			A					A		
+SNV335	A		A	A			A	A			A		A	A		A	H		A	A	A	A			A	A					A	A	A	A					A	A				A		
+SNV336	R	A	A		R		A	R		A		A				H		A		A	A	H	A					A	A			A		R	A	R			A	R	A		R			
+SNV337	R	R	R		R		R	R		R		R				R		R		R	R	R	R					H	R			R		R	A	H			R	A	R		R			
+SNV338	H	R	R		R		R	R		R		R				R		R		R	R	R	H	R				H	R			R		R	H	H			R	A	R		R		A	
+SNV339	H	R	H		R		R	R		R		R				R		R		R	R	R	H	R				H	R			R		R	H	H			R	A	R		R			
+SNV340	R	R	R	R	R		R	R		R		H		R		R		R	R	R	R	R	R	R				R	R					R	R	R			R	R	R		R		R	
+SNV341	R	R	R		R			R		R	R	R		R		R		R	R	R	R	R	R					H	R					R	R	H			R	A			R		R	
+SNV342		R	R		R			R			R					R		R				R	R					R				R			R			A		R					R	
+SNV343	A		A	A				A	A		A	A	A		A	A	A		A	A	A	A	A		A				A		A	A		A					A							
+SNV344	A		A	A		A		A		A	R	R			A		A	A	A			A							A							R			R						A	
+SNV345	A	A	A	A	A	H		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A				A					A	A	R		R	H					A	H	
+SNV346	A		A	A		A		A				R		A	A			A	A			A			A				A		A				A		A		H						A	
+SNV347	A		A	A		A		A						A	A			A	A			A							A						A				H						H	
+SNV348	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A		A	A	A	A	A				A				A	A		A										A	A	
+SNV349	A	A							A	A		A	A			A			A		A		A	A	A	A	A		A		A			A						A						
+SNV350	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	H	A	A	A	A	A	A	H	R	A	A	A			A		A				R						R	R	R
+SNV351	A	A	A	A	A				A		A	A	A	A	A	A	A		H		A		A	A	R		A	A	A		A	A	A					A								A
+SNV352	A	A	A	H	A				A	A	A	A	A	A	A	A	A		A	A	A	A	A	A		A		A	A			A						A								
+SNV353	A	A	A	A	A			A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A		A	A	A	A			A						A								
+SNV354	A	A	A	A	A			A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A		R	A	A	A			A						R								
+SNV355	A	A	A	A	A			A	A	A	A	A	A	A	A	A	A		A		A	A	A	A	A			A	A			A						A								
+SNV356	A	A		A				A		A	A	A			A										A			A						A					A							
+SNV357	A	R		A				A		R	R			A		H	A			A		A	A		A						A													A		
+SNV358	A			A			A	A		A	H	A	A	A	A	A	A	A		H	A	A	A			A		A						A										A	A	
+SNV359	R		R					R	R					R			R		R	R			R	R											R				A							
+SNV360	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A			A	A	A	A	A			A	A					A	A	
+SNV361		R	R				R			R	R	R	R		R	R	R			R	R		H				R																			
+SNV362	A				A		A				A		H			H	R	A		R	R		A									A														
+SNV363			A	A					A	A	A	A						A	A	A		A	A					A						A						A						
+SNV364			A	A					A	A	A	A						A		A		A	A					A						A						A						
+SNV365			A	A				A	A	A	A	A						A		A		A	A					A						A						A						
+SNV366		R	R		R		R				R			R	R	R					R														R	A			R	R			A			
+SNV367	A	A	A	A	A		A	A	A	A	A		A			A		A	A	A			A				A	A			A	A				A									A	
+SNV368	A	A	A	A	A		A	A	A		A		A			A	A	A	A	A			A		A		A	A			A	A				A								A	A	
+SNV369		A	R	R	R		R	H			R	R		R	R	R	A	R		A	R		R	R	R		R				R			R				R								
+SNV370	A	A	A		A			A	A	A	A	A	A		A	A	A		A	A	A	A	A		A									A											A	
+SNV371		A			A		A	A		A	A				A	A	A		A	A			A			A	A	A			A									A						
+SNV372			H	R	H			H	R			R				H									A			H	R		H	H	H	H	R				R					H	H	H
+SNV373	A		A		A					A	A					A		A	A	A		A							A						A	A										
+SNV374		R								R	R	R	R		R	R	R	R		R							R	R				R		R	R				H	R						
+SNV375	A	A	A	A	A		A	A	R	A	A	A	A	A	A	A	A	A	A	A	H	A	A	A				A			A	A		A		R		R	R		A	A		R	A	
+SNV376	A		A	A	A		A			A	A			A				A		A		A	A					A	A			A			A											
+SNV377	R		R	A	R	R	A	A	R		H	R		A	R	R	H	A	A	A	R	R	H				A		R			A				R			A							
+SNV378		R		R	R	R					A		H	A	R			A	A	R		A	A				A							R										A		
+SNV379	R	A			R		A	A		R		H	R	R	R			A			R		A															R						R	A	
+SNV380					A		A	A		A				A	A	A			A		A		A	A				A						A										A		
+SNV381							R	R			R		H		A	A		R	A	R	R						A	A	A						R				A							
+SNV382		A		A		R		R	A							R			R		A					A												A		R				A	A	A
+SNV383	R		R	R				R					R			R		R		R		R						R				R		R						A						
+SNV384		A	A	A						A	A		A		A	A		A	A	A		A						A	A			A		A	A	A	A				A					
+SNV385			R		R		R	R	R	A			A	R			R		H				R	A			A									R										
+SNV386	A		A	A				A	A		A	A	A	A	A	A		A	A	A	A	A	A				A					A				A								A		
+SNV387	A		A	A					A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A		A				A		A		A			A	A				A	A	
+SNV388	A	A	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A		A	A		A			A				A		A		A			A	A				A	A	
+SNV389	R	R		A				A			A	A	R	R	A	A		H		R		R	A						A					R			R		A	A						
+SNV390	A	A		A				A			A	A	A	A	A	A		A		A		A	A						A					A					A							
+SNV391					A					A		A		A	A	A				A	A		A	A	A		A	A			A	A	A	A	A										A	
+SNV392			R		R				R	R	R			R	R	A	R	R			A	A	R			R		R				R		A					H					R		
+SNV393	A	R		A				H		A	A	A	A		A		R		A	A		R												H	A											
+SNV394					A			A	A	A	A					A	A	A		A			A	A		A								A		A				A						
+SNV395	R	R		R	R	R		R	R			R	R		R	R			R	R		R																		H						
+SNV396	A	R					A	A	A		A	A	A					A					A									A							A							
+SNV397	H		H		A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	R		H	A		A	A	H								A		A
+SNV398	R		A	A			A	A	A	A	A	A	A	A	H	A	A				A	A	A			H	A	A	A		A	A		A	A	A								A		
+SNV399	R		A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A			A	A	A	A					A	A			A						A		
+SNV400		R		R	A		R	R	A		R		R	A	H	H		A	R	R	R	A	R			A	R									R										
+SNV401		R		R	A		R	R	A		R		R	A	H	H		H	R	R	R	A	R			A	R					R				R										
+SNV402	R	A						A	H	R	R	A	A		A	A	A	R			H	A	R	A			A																	A		
+SNV403	R			A			A	R	R		A	H	A	R		R	R	R	A		A		R		A			A																		
+SNV404		H	R							R	R	R	H	R	R		R		R	R			R	R																						
+SNV405		A		A	A					A	A	A	A	A		A	A	A			A	A	A		A		A		A			A		A						A				A		
+SNV406		R						H			A		R		A	R	R	R	R	R	A		A											A										R		
+SNV407	A	H	A	A	A		R	H	A	R	H	R		H	R	A	H	R	H	A	R	R	R				A					R				A			A							A
+SNV408	A	A		A					A	A		A			A		A	A						A				A				A			A				A							
+SNV409	A	A		A					A	A					A		A	A				A						A				A			A				A							
+SNV410	A	A		A				A	A	A					A		A	A				A						A				A			A				A							
+SNV411	A	A		A				A	A	A					A		A	A										A				A			A				A							
+SNV412	A	A		A				A	A	A					A		A	A										A				A			A				A							
+SNV413	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A		A	A	A			A		R			A	A	
+SNV414				A			A	A	A	A	A	A				A	A			A	A	A	A				A	A				A		A		A								A		
+SNV415				A		H	R	A	R	R	R	H	R			R	H	A		R	A		H			A	A	A				R		R	A	R							A			
+SNV416	A	A	A		H	R	R	A	A	H	R	R	A	A	R	H	H	A	A	A	H		R	R			H	R			R								R	R						
+SNV417					A	A	A			A	A	A		A		A	A	A	A		A		A				A					A														
+SNV418	A	R	R	R	A	R	H	A		R	R		A	R		A	A	A		R	A		R				A				A													A		
+SNV419	A	A	A	A	A	R	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				A	A			A	A		A					A							
+SNV420	A	A	A	A	A	H	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				A	A			A	A		A					A							
+SNV421	A							A	A	A	A	A		A		A	A			A	A	A	A											A											A	
+SNV422	R					A		A	R	R		R	A			A			A		R		A		R		A																			
+SNV423	R	R	R	R	R		R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R			R		R	R				R		R	R			R		R						
+SNV424	A	A	A				A	A	R			A	A	A	A	A	A																						A							
+SNV425	A	R			R			R	R		A	R	A		R	H		R		R	R	H	R						R			R	R			R			R	R						
+SNV426	A	A	A						A							A		A				A	A	A		A						A				A			A							
+SNV427	R	H	H	H	H	A	R	H	H	H	H	H	H	H	R	H	R	A	A	R	R	H	R		A	R	A	R			R	H		A	A	R		A	R	R						
+SNV428	A	R					A	A				A			A	A	A		A	A				A										A		A							A			A
+SNV429	A	A	A	A	A			A	A	A	A	A	A	A	A	A	A		A	A	A		A					A	A			A			A					A				A	A	
+SNV430	R		R	R			R	R	R	R	R	R				R		R			R	R													H	R										
+SNV431	A	A	A	A			A	A	A	A		A	A	A						A		A																					A			
+SNV432	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A				A	A					A	
+SNV433	R	R	R	R	R	R	R	R			R	R		R		R						R			R	R	R	R			R		R	R				R	R	R				R	R	R
+SNV434		R		R	R			R		R			R							R	R	R	R								R			R		R									A	
+SNV435		A		A	A	A		A		A			A								A	A	A	A							R			A		R									A	
+SNV436		A		A		A		A		A			A			R						A	A													R			R						A	
+SNV437	R	R		R		R		R		R			R								R		R		R											A			R						R	
+SNV438	A	A		A	A		A		A	A				A	A	A	A	A	A	A			A				A				A			A		A									A	
+SNV439	A	A		A	A		A		A	A				A	A	A	A	A	A	A			A		A		A				A			A		A									A	
+SNV440	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A	A		A	A					A	A					A		A										
+SNV441				A	A		A	A		A			A						A		A				R					A		A			R	A										
+SNV442		R	R		R			R		R			A						R			R	R	R				R					R	R	R	R				R				R		
+SNV443					R			R	R	R				R		R	R	R				R	R					R											R						R	
+SNV444	A		A	A					A	A	A	A		A	A	A		A		A		A	A				A	A			A			A		A										
+SNV445	R		R	R	R			R		R	R		R				R	R	R	R	R	R											R												A	
+SNV446	R		A		R			A		R	R		R				R	R	R	R	R	R																							A	
+SNV447	R				A	R	R	R		R	R			R	R	R	R			R	R		R																							
+SNV448	R		R	R	R		R	R	R		R	R				R	R		R	R	H	R	R		R		R	R					R		R											
+SNV449		R		R	R		R	R			R	R			R	R			R	R	R		H		R		R	R					R		R											
+SNV450	R	A		R			R	A	R	A	R	R		R	R		A	H		A	R					R	R	R	R											R				R		
+SNV451		A			A		A	A	A	A		A		A		A		A					A				A		A			A								A					A	
+SNV452	R	R	R		R		A	A		H	A	A	A	H	A	A		R	A	A	A	A													A	A		A						H		
+SNV453		H	H	H	A	H	H	H		H	H	H	H	H	H	R		H	H	H	H							H				H				H					R			R	R	
+SNV454					A		A	A		A				A	A	A	A		A		A		A	A				A						A										A		
+SNV455					A		A	A		A				A	A	A	A		A		A		A	A				A						A										A		
+SNV456		R	H	H	R				R		R		R			R		R		R	H							R				R		R	A											
+SNV457		R	H	A	R	R			R		R		R			R		R	H	R	H						R	R	A			R			A				R					R		
+SNV458		A	A	A	A			A		A	A	A				A	A		A	A	A	A		A		A	A	A			A			A					A	A				A		
+SNV459	A	A	A	A			A	A	A	A		A		A	H	A		A	A	A	A	A	A	A	A						A	A	A		A	A		H	H	A				A	A	A
+SNV460	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A			A	A				A	A	A
+SNV461	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A		A	A	A	A	A	A			A	A				A	A	A
+SNV462	A	A	A	A			A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A		A	A	A				A	A	A
+SNV463	A		A				A	A	A				A	A	A	A	A	A	A	A	A		A			R		R						R	R										R	
+SNV464	R			R				R	H	H				R		H		R				R	R									R			R				R							
+SNV465	A	A	A		A	A	A		A	A	A	A	A	A	A	A	A	A			A		A					A																		
+SNV466	A	A	A	A			A		A	A	A	A	A	A	A	A	A	A			A		A					A																		
+SNV467		R	R	R	R		H	R	R	R	R	R	H	R	R	R	R	R	H	R	R	R	R	R	R		R	R			R	R	R	R	R	R		R								
+SNV468			R	R	R		R	R		R	R	R	H		R	R	H	R	R	R	R		H	H	R		R	H			R	R	R	R	R			R								
+SNV469	R		R	R	R		R	R	R		R							R			R	R	R	R			H	R					R							R					R	
+SNV470	R		R	R	R	R	R	R		R	R	R		R	R	R		R	R			R			R			R												R					A	
+SNV471		A			A		A					A		A	A	A	A		A			A		A				A				A	A	A					A	A				A	A	
+SNV472		A			A		A					A			A	A								A				A			A	A	A	A					A	A			A	A	A	
+SNV473			A				A	A	A		A	A	A		A													A		R					R	R			R						R	
+SNV474	R							R	R		R	R	R			R	R	R		R	H		R		R			R	R		R					R										
+SNV475	A	A	A	A				A	A		A	A	A	A	A	A	A		A	A	A	A	A		A				A		A	A		A	A				A							
+SNV476	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A				A	A	A			A		A										A	A	
+SNV477	A		A	A	A			A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A				A	A	A	A					A					A		
+SNV478	A	A		A				A	A	A	A	A	A	A	A	A				A		A	A				A	A						A		A										
+SNV479		A	A	A			A	A	A	A	A	A	A	A	A	A	A			A		A														R										
+SNV480	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A		A		A	A				A		A		R			A		R										
+SNV481	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A		A		A		A	A				A		A					A		A			A							
+SNV482	A	A			A		A	A	A		A	A				A	A		A	A	A													A	A				A							
+SNV483	H	H	R	A		R		A			R				H	R	H		R			H			H		R	R			R					A									H	
+SNV484	A	A	A	A			A	A		A					A	A	A		A			A			A		A	A						A		A				A					A	
+SNV485	R				R				R	R	R	R	R	R	R	R	R	R	R	R	R	R	R				R					R		R					R					A		
+SNV486	A	A	A	A					A	A		A	A			A	A		A	A			A	A				A				A														
+SNV487	R	R	R	R						R		R	R			R	R		R	R			R									R											R			
+SNV488					A		A			A				A			A	A	A	A	A					A								A		A			A							
+SNV489			R		R		R			R				R			R	R	R	R						R	R			R				R					R	A						
+SNV490	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A			A	A		A	A	A		A		A		A	A	A	A	
+SNV491	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A			A	A	A	A	A	A				A		A	A	A	A	
+SNV492	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	H	A		A	A	A	A			A		A	A	A					A		A		A	A	
+SNV493	A	A	A	A			A	A	A	A	A	H	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A			A		A	A	A					H		A		A	A	
+SNV494	H	A	A	H	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	H	A		A		A	A			A		A	A	A					A		A		A	A	
+SNV495	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A	A		A	A		A	A	A	A	A	A	A			A	A	A	A
+SNV496	A	A	A		A				A		A	A	A	A	A	A	A	A	A	A		A	A		H		A				A		A	A	A	A		A	A	A		A		A	A	
+SNV497	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A			A	A	A	A	A	A			A	A	A	A	A	A		A	A	H		A		A	A	
+SNV498	A	A	A	A	A	R	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A		A	A	A	A	A	A	A		A	A	A		A		A	A	A
+SNV499	A	A	A	A	A		A	A		A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A			A	A	A	A		A		A	A	A		A		A	A	
+SNV500	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A			A	A	A	A	A	A		A	A	A		A		A	A	
+SNV501	A			A				A		A	A	A	A	A		A			A		A	A						A																		
+SNV502		A	A	A							A	A				A				A			A			R	A				A	A		A	R	A		A	A			R			R	
+SNV503								R	A	R	R			R		R	R			A		R	R		A		R					R	A	R											A	
+SNV504				R	R		R		A			R				R	R	R			R				R			R								R				R						
+SNV505	R	R	H	R	A		A	H	A	R	H	A		R	R	H	R	A	R	A	A	A	R			R	R		R				R	H					R					A	R	R
+SNV506	R				R		R	A					A		R	R	R	R						R										R		R				R				H		
+SNV507	R		R	R						R	R	R		R		R								R		R	H				R		R	R					R	R						
+SNV508			A	R				R		R				R	A	R	R		A			R	A					A		R	A	H														
+SNV509			R	R				R		R	R			A	R	R	R	R				R	R				R	R				R														R
+SNV510		A	R	R			R	R	R	R	R					R		R		R	A		R		R			R				R		A		A			A					R	A	
+SNV511	A	A	A	A	A		A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A		A			A	A		A	A		A		A	A	A	R
+SNV512	A	A	A	A	A		A	A	A	A	A		A	A		A	A	A	A	A	A	A	A	A		A	A		A	A		A				A	A	A	A		A					R
+SNV513	A	A	A	A	A		A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A		A	A		A	A		A					A	A	A		A			A	A	R
+SNV514										R	R	R						R					R		A			R			R		R	R	R				R						H	
+SNV515	A	A						A			A	A	A				A	A													A	A		A					A					A		
+SNV516					A		A	A					A	A	A	A		A	A	A		A	A				A	A																	A	
+SNV517	R		R	R	R		R	R	R		R				A	H						R						R				R						R								
+SNV518	A	A				A		A		A		A		A	A	A						A	A			A	A				A	A		A						A						
+SNV519	A							A	A	A	A		A	A	A	A				A							A	A							A				A							
+SNV520	R	R	A	A	A	H		R			R	H	H	A	R	H	A		A			A	R				A																			
+SNV521	R							R	A	A	R	A	A					R	A			A				R			R						A				R						R	
+SNV522							R	R	R	R		R			R	R	R		R	R	R	R	R				H		R										R						R	
+SNV523			R	H	R		H	R	R	R	R	R		R	R	R	R	A	R	R	R	R			A								A		R				R	R						
+SNV524	A		R	A	A		R	R	R						R	R				R	A	A							A										R		R			R		
+SNV525		A		A	A		A	A		A	A		A	A	A	A	A		A				A				A		A			A														A
+SNV526		R	R	R	R		R		H			R	R		R	R	R	R		R		R	R						R											R						R
+SNV527		A			A							H				A							A				A	A			A	A		A		A			A	A						
+SNV528	R	R	R	R	R		R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R		R	R	R	R	R	R	R	R	R	R				R	R	R
+SNV529	R	R	R	H	R		R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	H	R	R	R	R	R	R		R	R	R			R	R	R	R
+SNV530				A	A	A	A	A	A	A		A			A	A	A	A		A	A	A	A		A			A	A				A					A	A							
+SNV531		R		R	R	R	R	R	R	R		R			R	R	R	R		R	R	R	R		H			R	R				A			R		R	R			R			A	
+SNV532		R		R	R	R	R	R		R		R			R	R	R	R		R	R	R	R		A			R	R				A			R		R	R			R			A	
+SNV533												R												R	H		R	R	R	R	R	A	H		R	R		R	R	R	R	R		R	A	R
+SNV534												R												A	A	A	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A
+SNV535												R												R	R	R	R	R	R	R	R	R	H	R	R	R	R	R	R	R	R	R	R	R	A	R
+SNV536												R												R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	A	R
+SNV537												R												R	H	R	R	R	R	R	R	R	H	R	R	R	R	R	R	R	R	R	R	R	A	R
+SNV538			R	R				R					R			R			R					R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	A	R	R	A	R	A	R	R
+SNV539			R	R				R	R				R			A			R					H	R	R	R	R	R	R	R		R	R	R	R		R	R	R		R	R	R	R	R
+SNV540								A								R								A	A	A	A	A	A	A	A	A	A		A	A	A	A	H	A	A	A	A	H	A	A
+SNV541	R	R	R					R		R			R	R	R	R	R		R		R	R	R	R							R			R	A	R		R	R					R		
+SNV542	A	A							R		A	A	A	A			A		A									A			R	A	R	A		R				A						
+SNV543	A	A	A	A	A			A		A	A				A	A	A	A				A	A			A					A	A			A					A				A		
+SNV544	R	R	R	R	R					R	R				R	R	R	R				R	R			R					R				R					H				R		R
+SNV545	A	A	A	A	A			A	A	A	A				A	A	A	A				A	A			A									A			A		A				A		A
+SNV546	A	A	A			A	A			A	A		A			A	A	A					A					A				A		A		A			A				A	R		R
+SNV547	R	R	R							R	R		R			R			R				R									R		R		H			R							R
+SNV548							R			R	R	R				R	R							R	A						R				R				R	R				R	A	R
+SNV549		A	A	A				A	A	A				A		A	A	A			A		A			A			A							A										
+SNV550		R	R								R		R			R	R	R					R		H						A	R	R	R	R			R							R	
+SNV551		A	A								A		A			A	A	A					A		A						A	A	A	A	A			A							A	
+SNV552					R		R	R	R	R		R				R	R	R								R		R			A								R							
+SNV553		R	R	A	R		R				R		A	R	R			R		R		R	R					A	R						R										R	
+SNV554			R	R		R				A	R				R		R	R	H				R				H							R		R		R	R							
+SNV555	A	A	A		A				A	A	A					A				A							A							A	A						R					
+SNV556				A	A	A		A	A		A	A	A	A	A			A	A	A	A					R	A	A				A								R				A	A	
+SNV557			A				A	A	A	A	A	A	A	A	A			A	A		A	A																								
+SNV558	A	A									A		A			A		A	A	A		A					A				A									A						
+SNV559	A		A	A	A		A	A			A	A	A	A		A	A	A	A	A		A						A	A				A		A				A							
+SNV560	A		A		A		A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A	A				A			A					A	A						
+SNV561			A	A	A						A					A	A	A	A				A		A							A	A		A				A	A				R	R	
+SNV562	A		A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A		A			A					A	A				A		
+SNV563	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A				A			A	A											
+SNV564	A	A		A	A		A			A	A		A	A	A	A		A	A	A	A		A		A		A	A											A						A	
+SNV565	R	R		R			R	A	R	R	R		R	R	R	R		R	R	R	R		R				R	R											A						A	
+SNV566	A	A		A	A		A		A		A		A	A	A	A		A		A	A		A			R	A	A								A		A	R						R	
+SNV567	A	A	A		A			A			A	A				A	A		A	A		A	A									A			R											
+SNV568	A	A	A		A			A	R	R	A	A				A	A		A	A		A	A									A			R											
+SNV569	A		A		A			A			A	A				A	A		A	A		A										A			R											
+SNV570	R		R	R			R	R		R					R		R	R	R		R		R						A										A							
+SNV571	A	A		A				A	A	A		A		A	A					A	A	A	A					A						A											A	
+SNV572	A			A	R			A	A	A		A			A	A					A	A						A						A											A	
+SNV573	H	R	H	H	R		H	R	R	R	R	H	H		H	R		H	R	R	R	R	H	R	R	R	R	R	R			R	R	R	R	R			R	R	R	R	R	R	R	R
+SNV574	H	H	H	H	R		H	H	H	H	H	H	H		R	H		A	A	A	A	H	H	H	H	A	A	H	A			H	H	A	H	A			H	A	H	H	H	H	A	H
+SNV575			A		A	A	A	A	A		A		A	A	A	A	A	A	A	A		A	A				A	A	A		A	A	A	A				A	A					A		
+SNV576	R	A	R				R	A		R	R	R	R	R		R	R		R	R	R		R	A	R	R	R		R		R	R	R	R		R			R					R	R	R
+SNV577	H	H	R	R	R			H		H	H		R	R	H	R	R	R	R		H	R			R	A			A		R	R			H									R		
+SNV578	A	A	A	A	A	R	A	A	A	A	A		A	A	A	A	A	A	A	R	A	A	A			R			A			A			R	A										
+SNV579	A	A	A	A				A	A	A		A			A		A			A		A	A				A		A																	
+SNV580	A												A			A				A							A		A		A							A	A	R		A	A		A	A
+SNV581	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	H	A	A			A		A							A	A		A						A		
+SNV582	A	A		A				A		A		A	A		A			A		A		A	A						A					A												
+SNV583	A	A		A				A		A		A			A			A		A		A	A						A					A												
+SNV584	R	R		A				R		R		R			R			R		R		R	R						R					R												
+SNV585	A		A				A	A				A	A			A	A		A	A		A	A																							
+SNV586	A		A				A	A				A	A	A		A	A		A	A		A	A				R	R																		
+SNV587	A		A				A	A				A	A	A		A	A		A	A		A	A				R	R										R								
+SNV588	A	A	A			A	A	A				A				A	A		A	A		A	A																			A				
+SNV589	H		R		R				R		R	R		H		R	R		R		R		R			A							R			R										
+SNV590	R		R	R												R		R	R		R	R	R					R				R			R				R					A	R	
+SNV591	R		R	R				R						A		R	R	R	R		R	R	R			A		R				R			A				A					R	R	
+SNV592	R			R	R			R		R		R			R						R	R										R				R			A					R	A	
+SNV593	A			A				A	A	A	A		A	A		A	A	A		A			A				A	A				A		A					A		A			A		
+SNV594		R		R			R	R			R		R	R						R	R				R										A			A	A	R						
+SNV595			A	A			A	A	A		A		A		R	A	A	A		A									A							A					A				A	
+SNV596			A	A			A	A	A		A		A			A	A	A		A									A							A									A	
+SNV597			R	R			R	R	R		R		A			R	R	R		R									R							R									R	
+SNV598			A	A			A	A	A		A		A			A	A	A		A									A							A									A	
+SNV599			A	A			A	A	A		A		A			A	A	A		A									A					A		A			A					R	A	
+SNV600	A	R	R		R		R			R	A				A	A				R			R					A							A									A	A	
+SNV601			R		R		R	R	R	R	R				R	R							R												A									A	A	
+SNV602		R	H	A	R		A								R					H		H	H						H						R										A	
+SNV603		R	R	R	R		R		R		R				R			R		R		R	R						R						A										R	
+SNV604	R	R		R	R		R		R	R		R	R		R	R	R	R			R														A									A		
+SNV605							A	A		A						A		A	A	A							R	A	A						R					R					R	
+SNV606	R	R	H	R	H	R	H	R	H	R	H	R	R	R	R	R	H	R	H	R	R	R	R			R	A	A	A	R	R	A		A	R			R	R	H			R	R		R
+SNV607	R	R	H	R	H	R	H	R	H	R	H	R	R	R	R	R	H	R	R	R	R	R	R			A	A	A	A	A	R	A		A	H			R	A	R			A	R		R
+SNV608	A	A	A	A	H	R	A	A	A		A	A	A	A	H	A	A	A	A	A	H	H	A						A			H		A						H						
+SNV609	H	A	H	H	A		A	H	A	H	H	H	A	A	A	H	R	A	H	A	A	H	A			R			A			H		H	R			R		A				R		
+SNV610	R	R	R	R	R		R	R	R		R		R				R	R	R	R	R	R	R			R	R		R			R		R	R			A						R	A	
+SNV611	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A					A	A			A		A				R		R						
+SNV612	A	A	A	A	A		A	A	A		A		A	A		A	A		A	A	A		A						A					A				R								
+SNV613	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				H	A	A			A		A				R		H						
+SNV614	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				A	A	A			A		A				R		A						
+SNV615	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				A	A	A			A		A				R		A						
+SNV616	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		R	A	A	A	A		A		A	R	A	A	R	A	R				A		H
+SNV617	H	H	H	H	H	H	H	H	A	A	H	H	H	H	H	H	H	A	H	H	A	A	A				A	R	H			A	A	H				R		R						
+SNV618	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R				R	R	R			R		R						R						
+SNV619	A		A	A	A		A	A		A	A	H	A	A	A	A	A	A	A	A	A	A	A				A	A	A			A		A						A				R		
+SNV620	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A			R					R															
+SNV621	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A						A					A				R		A						
+SNV622		A	H	A	A		A	R	A	R	A	A	A	A	A	R	A	A	A	A	A	R	A	A	A	A	A	R		A	A	A		A	A				A	A				A		
+SNV623	A	A	A		A		A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A			A	A		A	A				A	A					A	
+SNV624			R	A	A		H	R	A	R	A	A	A	A	H	R		A	A		A	R	A	A	A	A	A	R			A	A		A					A					R	A	
+SNV625			A	A			A		A	A					A	A				A		A	A				A									A				A						
+SNV626				A		A	A		A	A		A				A				A		A					A							A						A						A
+SNV627	A	A	A				A	A	A	A	A		A					A	A		A		A					A				A												A		
+SNV628	R	H			R	R	A	R	R	R	A	R	A		R	A	H	A	R	A	A	A	R				A	R		A	R	A		A				A	H	A						
+SNV629	R	A			R	R	A	R	R	R	A	R	A		R	A	H	A	R	A	A	A	R				A	R		A	R	A		A				A	H	A						
+SNV630	A	R			A	A	R	A	A	A	R	A	R		A	R	H	R	A	R	R	R	A				R	A		R	A	R		R				R	H	R						
+SNV631	A	R			A	A	R	A	A	A	R	A	R		A	R	H	R	A	R	R	R	A					A		R	A	R		R				R	H	R						
+SNV632	A	A			A		A	A		A	A	A	A		A	A	A	A		A	A	A	A					A						A				A	A							
+SNV633	A	R			A	A	R	A		A	R	A	R		A	H	H	R		R	R	R	A					A						R				R	A							
+SNV634			A	A	A		A			R		R				A							R									A			A				R	A					A	
+SNV635		A		A	A			A	A	A				A		A				A		A						A				A				A							A			
+SNV636		A		A	A				A	A				A		A				A		A						A				A				A							A			
+SNV637		A		A	A			A	A	A				A		A				A		A						A				A				A							A			
+SNV638	R	R	A	R	R		H	R	R	R	R		R	H	H	R	R	R	R	A	R	R																R		R					R	
+SNV639	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A			A						R							A		A					A	
+SNV640	R	R			R			R		R				R	H	R	R	R		R							R							R												
+SNV641		A	R	H	A	R			R			A		R							H	R			H			A	A			H		R	R	A			R	A					A	
+SNV642	A	A					A	A	A	A	A	A	A	A	A		A	A		A			A		A		A	A			A	A		A						A					A	A
+SNV643			R	R	R			R				R		R		R	R	R	R	R	R		R			R						A													R	
+SNV644			R		R			R				R		R	R		R	R		R	R		R			R						A													R	
+SNV645			A					A				A		A	A		A	A		A	A		A			A				A		A													A	
+SNV646	A	A		A			A	A	A	A	A	A				A			A			A	A		A							A	A	A	A								A		A	
+SNV647	A	A		A	A			A		A	A	A	A		A	A	A	A				A									A		A			A									A	
+SNV648	A		A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				A						A			A			A							A
+SNV649	H	A	R	R	A	R	A	R	A	R	A	R	R	R	R	A	R	R	A	R	H	A	H		H	A	R	A		R		A		R	R										A	R
+SNV650	R	R	R				R		R	R	R	R	R		R	R	R	R		R	R							R																A	R	
+SNV651		R		R						A	H	R	R					A	A	R			R													R			R							
+SNV652	A				A			A	A	A			A	A		A			A		A		A				A																			
+SNV653								A	A				A		A	A	A					A						A	A			A		A				A								
+SNV654	H	H	R	H	R	R	H	H	R	A	H		R	R	H	A	R	R	A	H	A	R	R					R				R		A										A	A	
+SNV655	R	A	R	R	R			R	H	A	R	R		R	A	R				R		R	A			R			A			A		R						A				H		
+SNV656				A	A			A		A	A	A	A	A	A	A		A		A	A	A			A		A		A					A				A						A		
+SNV657					A			A		A	A	A	A	A		A		A		A	A				A		A	A	A					A	A			A						A		
+SNV658					A			A	A	A	A	A	A	A		A		A		A	A			A	A				A						A			A	A							
+SNV659	A		R		A	A	R	A	A	R	R	R	A	R		R		R	A	R	A				R				R									A		H					R	
+SNV660	A	A			A		A	A	A	A	A	A	A	A		A	A	A	A	A	A				A				A									A		A					A	
+SNV661	R	H	A	H	R	A	A	A	R	R	H	A	R	A	H	A	R	A	A	H	H		R	R	R		R				A	R		R	R			A							R	
+SNV662				A	A		A	A	A	A	A				A	A		A			A	A			A	A	A		A						A				A					A	A	
+SNV663		A		A	A	A				A											A	A			A				A						A				A						A	
+SNV664		A		A	A		A		A	A											A	A							A				A		A				A						A	
+SNV665	R	R		R	R		R			R											R	R							R						R				R						A	
+SNV666	A			A	A		A	A	A	A		A			A	A	A	A			A	A	A					A	A			A	A	A	A	A			A						A	A
+SNV667		A							A	A	A	A			A	A		A		A		A						A				A			A										A	
+SNV668		A	A	A						A		A			A	A	A	A							A			A			A	A														
+SNV669		R	A				A	R		R						R	R	R			H				A			R																	R	
+SNV670		R	R				R	R		R	R		R	R		R		R													R		H							R			R	R	R	
+SNV671	A		A		A		A			A		A		A		A	A		A	A	A		A		A							A														
+SNV672	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	H	A	A	A	A		A	A	A	A	A			A				A		A						A	A	A
+SNV673	R	R		R							A						A	A		A			A				A					R		R	A	R				A			R	R		A
+SNV674	R	R		R				A			A						A	A		A							A							R	A	R				A				R		
+SNV675		A	A	A			A	A	A	A	A	A	A	A	A			A	A			A										A														
+SNV676		A	A	A		A	A	A	A	A	A	A	A	A					A					R								A														
+SNV677	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A					A							A										A	
+SNV678	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A																						A	
+SNV679	A	A	A	A	A		A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A																						A	
+SNV680	A	A	A	A		A	A	A	A	A	A	A	A		A	A	A	A	A	A	A	A	A					A																		
+SNV681								R		R		A				A	A		R				A					H				R	R	A	R				R	A				R	R	A
+SNV682	H			A				H	A	R						R	A	A	A		R	R						R				A			H	R								R	R	
+SNV683				A				R		A							R	R	A		A	R	A					R				A			A	A								A	A	
+SNV684	A			A				R										A	R	A	A			R		A		R				R	H		H	A										
+SNV685	A	A		A			R	H		H	A	H		R		A	A	R	R		A	R						A	A			A	R												A	
+SNV686	A	A		A			R	H		R	A	H		R		A	A	R	R		H	H						A	A			A	R	A											A	
+SNV687	A	A		A			R	H		R	A	H	A	R		A	A	R	R		R	H	A					A	A		R	A	R	A											A	
+SNV688	A	A					R	H		R		H				A	A				R	A						A				A										R				
+SNV689	R		A	H				A							A		R		A	A	A		A					R				A			A										H	
+SNV690	A	A		A			A	A		A			A				A	A		A	A			A				A				A		A	A				A	A				A		
+SNV691	A	A		A			A	A		A	A		A				A	A		A	A			A				A				A			A				A	A				A		
+SNV692	A	A		A			A	A		A	A		A				A	A		A	A			A				A				A			A				A	A				A		
+SNV693	A	A		A			A	A		A			A				A	A		A								A				A		A	A	A			A					A	R	
+SNV694	A			A	A		R	A	A	A	A	A	A		A	A	H		A	A	A	A					A	A							A			A								
+SNV695	A	A	A	A	A	A		A	A	A	A	A	A		A	A	A	A	A	A	A	A			A		A	A		A		A						A	A						A	
+SNV696	R	R	R	R	R			R	H	R	R	H	H		R	H	R	H	R	H	R	H				R	H	R			A	R							H						R	
+SNV697	R					R	R	R		A	R		R			R	R			R		R	R				H					R		R												
+SNV698		R	R	R	R		R	A	R	R	H	A	A	A	R				R	A		R			R			A																		
+SNV699		R	R	R			R	A	R	R	H	A	A	A	R				R	A		R			R			A																		
+SNV700					R				R		R			R		R		R	R				R			R	R								R				A						R	
+SNV701			R	H	A	R		R		H	A	R					H	A	A	A															R									R		
+SNV702		A	A				A		A		A		A		A				A	A			A												A										A	
+SNV703		H							A	R		H			H			R	R		R	R				R						A		A									R		A	
+SNV704		A			A				A		A				A	A		A		A						A						A		A	A	A						A	A			
+SNV705		A		A					A		A				A		A	A		A						A						A				A						A	A			
+SNV706	A	A	A				A	A		A	A	A		A					A		A	A	A								A		A			A								A	A	
+SNV707	A		A		A		A	A		A		A	A	A			A		A		A		A																							
+SNV708			A					A	A	A				A	A	A	A		A		A		A		A	A	A				A			H		A		A	A					A	A	
+SNV709	R			R		A			A	R	R		R					R		R	A	R						R						R												
+SNV710		A	A	A			A	A				A				A	A	A		A						A						A				A										
+SNV711		R	R		R		R	R			R	R				R	R	R		R						R						R				A										
+SNV712	R	R		R				R			R	R						R	R	R				R			R	R				R		R						H						
+SNV713		R	A	R	R		A	H			A			A	A	R	R	A		A		R						A						R												
+SNV714		R	A	R	R	A	A	R			A		A	R	R	R		A		A		R						A																		
+SNV715	A	A	R		R	R		R	A	A	A	H		R		R	R	A																												
+SNV716		R	R	R				R		R		H		R				H			R						R	R								R				R					R	
+SNV717	A	A		A		A	A	A		A	A					A	A	A		A		A	A		A						A				A										A	
+SNV718	A	A		A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A		A	A					A							A	A										
+SNV719	R						R	R		R	R	R	A		R			R	R		R	R		R																						
+SNV720			A	A	A		A			A		A		A		A	A	A	A		A	A				A	A		A	A	A	A			A	A			A	A					A	
+SNV721	A	A	A						A		A	A	A	A	A	A	A	A											A			A											A			
+SNV722	R			R				R			R						R	R		R					A	R		R				R							R					R		
+SNV723	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A		A		A	A				A								A					A	
+SNV724	A	R	H	A	A	H	H	H	R	R	R	H	A	A	R	H	A	R	H	R		R	A					A				A		R				R		A					H	
+SNV725	H	A		R	A	H	A	H	A	R	A	A	R	A	A	A	A	R	R	A	H	H		R		R	A		R															H		
+SNV726		R	A	A		A	R				H	A	A	R	A	H		R					R	H			R								A										R	
+SNV727	A	A	A			A	A	A	A	A	A		A	A	A	A	A						A																						A	
+SNV728	R	A		A	R			R	A	H	A		A	A			H		A	R	A	A	R					A								R										
+SNV729	R	R		A						H	A				A		R	R		H	A		A													R										
+SNV730		R	A	A				A	A	A	R	R	A		R	A	A		R	A		R	R					R				A			A				R							
+SNV731		R	R					R	R	R	R	R	R		R	R	R	R	R	R		R	R					R							H				R							
+SNV732	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A			A	A	A	A	A		A	A	A	A		A	A	A	A	A
+SNV733	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A			A	A	A	A	A		A	A	A	A		A	H	A	A	A
+SNV734	A	A	A	A			A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A		A		A	A	A	A	A	A	A	A	A	A	A	A	A	A
+SNV735	A		A	A		A		A				A	A	A	A	A			A	A	A																								A	
+SNV736	A		A	A		A		A				A	A	A	A	A			A	A	A																								A	
+SNV737	A		A				A	A		A	A	A			A	A	H			A	A		A	A			A	A				A												A		
+SNV738	R		A	A		A	A	H	H	A	H	H	H	H	H	A	A	H		A	H	A	H	A	H		H	H	A		H	A	H	H		H		A		A					H	H
+SNV739		A	A						A					A				A		A		A	A		A		A	A	A		R	A			R		R		A	H					A	
+SNV740		A	A						A					A				A	A	A		A	A		A			A	A			A			R				A	H						
+SNV741		A	A						A					A				A	A	A		A	A		A	A		A	A			A			R				A	H						
+SNV742				A			A				A	A				A						A				A	A	H						A	A	A		A	A	A				A		
+SNV743				A		A	A			A	A	A	A			A	A			A		A			R	A	A	A					R	A	A	A		A	A	A				A	R	
+SNV744	A		A	A	R	A	R	A		A					R	R	A			R		A						A						A	H	R										A
+SNV745				R			R						R		R							R	R		A			R				R		R	H					A		A				
+SNV746	R	R			R			R			R				R	R		R	R	R			R		R	R	A	R				R		R	R											
+SNV747	R	R	R	R							R		R	R	R	R							R				R	R			R	R			R	R			A		R			R		
+SNV748				A					A	A								A			A	A				A									A				A	A				A	A	
+SNV749				A					A	A								A			A	A				A								A	A				A	A				A	A	
+SNV750	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A		A	R	A		A	A	A			A	A	A	
+SNV751			H	R			R	R			R	R			R			R		R		R						A				R			R		R			R					R	
+SNV752	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A	A	A
+SNV753	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	H	A	A	A	A		A	A		R	A		A				R		A	A			A	A	R		A		A	A	
+SNV754	A		A			A	A	A							A	A	A	A					A					A			A	A														
+SNV755	R		R				R	A					R		A	R	R	R			R		R					R				R														
+SNV756	A		A				A	A				A	A		A	A	A	A					A					A				A														
+SNV757	R		R			R	R	R				R	R		R	R	A	R					R					R				R														
+SNV758		A	A	A			A	A	A	A				A		A								A		A								A					A				A		A	
+SNV759		A	A	A	R		A	A	A	A		A		A		A							R			A	A							A				A	H						A	
+SNV760		R	R	R			R	R	R	R		R		R		R										R	R												H						R	
+SNV761					A		A	R		A	A	A		A	A		R			A	A	A	A													A								A		
+SNV762	A	A				A	A	A	A	A	A	A	A		A	A	A		A	A	A		A	A	A		A	A		A	H	A		A		A			A							
+SNV763	R	R		A	R		A	A			R	R	A	H			H	A		A	R	R	A						A																A	
+SNV764	R	R		A			A	A			H			A			H	A	R	A	R	R	A						A				A							R		A			A	
+SNV765	A			A	A		A		A	A	A		A	A	A	A	A	A	A	A	A	A	A									A						A	A							
+SNV766		R	R	A					R	R	R				R	R		R					R						A									A						A		
+SNV767	R	R		R	R		R	R		R			R		R	R	R		R			R	R					R												A					R	
+SNV768	A	R	A	R									R		R	R															R	A		A									A	A		
+SNV769	A	A	A	A	R			A				H	H	A		A				R	A			A				A				A		A												
+SNV770	A		A	A	A		A	A		A	A	A	A	A	A	A	A			A	A		A	A	A	A	A	A			A	A		A	A	A		A		A		A		A		
+SNV771		A	A	A	A			A		A	A	A	A	A	A	A	A			A	A		A	A	A	A	A	A			A	H	A	A	A	A		A		R		A		A		
+SNV772	A	A	A	H	A		A	A	A	A	H	A	A	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A		A	A	A	A		A		A		A		A		A		
+SNV773	A		A	A			A	A		A	A		A	A	A	A	A	A		A	A		A	A	A	A	A	A			A	A	A	A	A	A		A	A	A		A		A		
+SNV774	A	A	A		A		A	A	A	A	A	A	A	A	A	A	A				A	A	A		A	A	A	A			A	A	A	A		A	A	A				A			A	
+SNV775	A	A	A		A		A	A	A	A	A	A	A	A	A	A	A				A	A	A		A	A	A	A			A	A	A	A		A	A	A				A			A	
+SNV776	H	A	A		A		A	A	A	A	A	A	A	A	A	A	A				A		A		A	A	A	A			A	A	A	A		A	A	A				A			A	
+SNV777	A		A		A		A	A	A	A	A	A	A	A	A	A	A				A		A		A		A	A			A	A	A	A		A	A					A			A	
+SNV778	H	R	R	H	R	A	H	R	H	R		H	R		R	R	R	H	H	H	R		H					R																		
+SNV779	R					H	R	R		R	R			R	R		R		R			A	R					A															R			
+SNV780	A	A			A			A		A	A	A	A	A		A		A			A	A	A		A	A	A	A							A			A		A				A		
+SNV781		R		A				R	A	R			R		A		R		R			A						A				A				A			R	R						
+SNV782		R	R	R			R		R	R	R						R	H		R	R	R						R			A								R						A	
+SNV783	R						A	A	R	H	A			A		A	A		A	R	R	A	A						A						A					A				A		
+SNV784					R					R	R		R	R		R	R				R		R	R		R		R				R							H							
+SNV785				R	A			H	A	R	R		R	H		A				H		R						A																	R	A
+SNV786	A	A		A	A				A		A	A					A		A	A	A		A	A					A						A				A							
+SNV787	A	A		A	A				A		A	A					A		A	A	A								A																	
+SNV788		A		H			A				R			A	A		A	A		A		R	H										R												R	
+SNV789				R	A	A		R		A	A			R		A	H			R	A	R	A											R	H					A						
+SNV790	H	A	H	R		R		H	H	A	A	H	H	A	R	A	A	A	H	A	A	A	H									R							R			R				
+SNV791	A	H	H	A				A	H	A	A	A	H		A	H	H		A	H	A	H	H									H							A							
+SNV792			R		R								R		R	R		R		R		H	R				R					H							H					H		
+SNV793	H	H	A	A	A	A	R	A	H	H	H	H	H	H	R	H	R	H	H	A	A	A	A			H	R	R			A	R		R	R	R		R						A	R	H
+SNV794	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A			A	A																A	A				A	A	
+SNV795	A	H	A	A	H	A	R		A	H	H	R	A	A	R	R	A	R	A	R		H	R																R	R				R	A	
+SNV796	A	A	A	A	A	A	A	A	A	A		A	A	A		A	A						A	A		A	A		A		A		R					A								A
+SNV797			A	A	A			A	A	A	A	A		A	A	H	A	A	A	A	A		A		A	A	A	A			A	A	A	A					A					A		
+SNV798	A	A	A				A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A			A	A		A		A	A		A	A	A								A		
+SNV799	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A		A	A	A	A								A		A
+SNV800	A	A	A	A	A		A	A	A	A	A							A	A	A	A	A	A					A				A			A					A					A	
+SNV801	R	H	R	R	R			A	A	A						R	R	R		A		R	R						R		A			A												
+SNV802	R	A	A	R			R		A	R	R	R		A	A		R			A			R					A												A						
+SNV803		H		A			H	A	R		R							A		A		R					A	A				A							R	A	A					
+SNV804	H	R	H	H	R	R	R	R	H	R	R	H	R	R	H	R	R	R	R	H	R	R	H	H	H	R	R	R	H		R	R	R	H	H	R		R	H	H				R	H	H
+SNV805			A			A		A	A		A		A			A		A	A	A		A	A								A	A	A	A				A	A							
+SNV806	A		R					R		A	R	A	A			A		H		R	R	R	R								A			A	R			A	R							
+SNV807	H	A	R	H				R			H	A			R			R	A	A		A	A																							
+SNV808	R			R	R		R			R						R	R	R	R		R	R	R					H			R								R	R					R	
+SNV809	A			A	A		A			A							A	A			A	A	A					A			A	A							A	R					A	
+SNV810	R			R	R		R			R						R	R	R	R	R	R	R	H		R			H			R	R							R		R				R	
+SNV811	R	R	R				R	R	A			R		R		R	R				R										R	R														
+SNV812								A		R	R	R	R	R	A	R	A			A	A	R			A		A	A				A		A											A	
+SNV813	A		A					A		A	A	A		A	A	A		A		A								A										A								
+SNV814	R		R					R		R	R	A		R	R	R		R		R								R										R								
+SNV815	A							A	A	A	A	A		A	A	A			A	A		A	A					A					A			A										
+SNV816	A			A				A	A	A	A	A		A	A	A	A		A	A		A	A					A					A			A										
+SNV817	A			R				R		A	A	A	A	A	A	A	R		A	R		A	H					R		R						R										
+SNV818	A		A	A	A		A	A			A			A		A	A			A	A		A					A	A						A				A			A	A		A	
+SNV819	A		A	R			A	H			H			R		A	H			A	R		A					A	A						A				A			H			A	
+SNV820	A	A	A			A		A		A	A	A	A	A	A	A		A	A		A		A			A	A					A		A						A				A		A
+SNV821	A		A	A	A			A	A	A		A			A	A						A													A	A								A		
+SNV822	A		A	A				A	A	A		A			A	A						A													A	A										
+SNV823	R		R	R		R		R	R	R	R	H	R	R	R	R	A	R			R	R	R					A						R								R				
+SNV824	R		R	R		R		R	R	R	R	H	R	A	R	R	A	R			R	R	R					A						R								R				
+SNV825	R		R	R		R		R	R	R	R	H		A	R		R	R			R	R	R					A						R												
+SNV826	A		R	A				A		A		A	R		A								R			A						A								R				A		
+SNV827			A	A	A		A				A				A	A	A			A			A			A									A									A		
+SNV828	A	A	A	A	A		A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A		A		A				A		A				A					A			
+SNV829	R	R					R					R	A						R									R						R	R					R				R	R	
+SNV830	A	H	R	R			H		R	R	R	H	H	R	R	H	H	R					R		R			A							R	R			H							
+SNV831		R	R				R	R			A	A	A	R	A	R	R	A	A			R					R					R			A					A					R	
+SNV832	R		H	R	R		H	A	A	A	R		R		R	R	R	R			A	A	A									A			H											
+SNV833	A		H	A	A		H	R	R	R	A		H		A	A	A	A			R	R	R									R			R											
+SNV834		R			A		R			A		A						A	A		R	A					R						R		R			A								
+SNV835	A	A		A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				A				A	A		A		A			A							
+SNV836	A	A		A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				A				A	A		A		A			A							
+SNV837	A	A		A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				A				A	A		A		A			A							
+SNV838	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A		A	A	A	A	A				A				A	A		A		A								A		
+SNV839	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A				A				A	A		A		A								A		
+SNV840	R		R					R			R	R			R	R	R			R		R	R		R			R	R		A													R	R	
+SNV841		A		A	A			A			A				A		A		A	A		A	R				A	A										A						A	A	
+SNV842		A	A							A	A			A	A	A	A		A			A	A	R										A											A	R
+SNV843		A						A		A	A			A	A	A	A		A			A	A								A			A	R										A	
+SNV844		A			H			A			A			A	A	A	A		A	A		A	A	R								A		A					R						A	
+SNV845	A	A		A				A	A	A	A	A	A	A	A		A	A	A	A	A	A		A							A	A		A	A											
+SNV846				A		A		A	A	A	A	A	A	A	A	A	A	A																												
+SNV847	A		A	A	A		A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A			A	A			A	A		A						A						
+SNV848	H		A	A	A		A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A		A	A			A	A		A						A				A		
+SNV849	A		A	A	A		A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A		A	A			A	A		A						A				A		
+SNV850	R	R	R	R	H		R	R		R	H	R	H	H	R	H	R	R		R	H	H	R	H		H	R	H			H	R		R		R				H						
+SNV851	A	A	A	A	A		A	A		A	A	A	A	A	A	A	A	H		A	A	A	A	A		A	A	A			A	A		A		A				A						
+SNV852	A	A	A	A	A		A	A		A	A	A	A	A	A	A	A	A		A	A	A	A	A		A	A	A			A	A		A		A				A						
+SNV853	A	A	A	A	A		A	A	A	A	A	A	A	A	A	H	A		A	A	A	A	A			A	A	A			A			A	A	A		A						A		
+SNV854	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A				A	A		A	A	A		H							A	A
+SNV855	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A		A	A				A	A	A	A	A	A		A		A					A	A
+SNV856							A	A		A		A	A			A	A	A	A	A	A														R											
+SNV857							A	A	A	A		A	A	R		A	A	A	A	A	A														R											
+SNV858							A	A	A	A		A	A			A	A	A	A	A	A														R											
+SNV859							A	A	A	A		A	A			A	A	A	A	A	A														R											
+SNV860	A		A	A			A	A	A	A	A	A	A			A	A	A	A	A	A							A							R											
+SNV861	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A						A						A												
+SNV862			A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A					A						A												
+SNV863		A		H				R	R		H	R	R			A	R	R	A	R			R					R								R										
+SNV864	A	A	A		A		A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A			A				A	A				A			A							A
+SNV865	R	R	R		R		R	R			R					R	R		R	R		R	R	R							A				A	A		R								
+SNV866	A	A	A		A		A	A				A				A	A		A	A		A	A	A											R	R		A								
+SNV867	A	A	A	A		A	A	A	A	A	A	A	A	A		A	A	A	A	A		A									A	A														
+SNV868	A	A		A	A	A	A		A	A	A			A	A	A	A	A	A	A			A	A	A		A	A			A		A	A		A										
+SNV869	A	A		A	A		A		A	A	A			A	A	A	A	A	A	A			A	A	R		A	A			A		A	A		R										R
+SNV870	R		R		R	R	R	R	R	R		R	R	R	R			R	R	R	R	R	R		R	R	R	R			A	A				A				A				A	A	
+SNV871	R		R	R	R		R	R		R	R			R	R	R			R	R		R	R										A			A					R					
+SNV872	R		R	R	R		R	R		R	R			R	R	R			R	R		R	R										A			A					R					
+SNV873	A		A	A				A		A	A		A			A			A			A	A									A														
+SNV874	A		A	A			A	A		A	A		A	A	A	A			A			A	A					A			R	A							R					R	R	A
+SNV875	A		A	A			A	A		A	A			A	A	A			A			A	A					A				A											R			
+SNV876	A		A	A					A	A	A	A	A	A		A	A	A			H	R	A									A				A								A		
+SNV877	A		A		A		A			A	A	A		A			A						A									A			R			A						A		
+SNV878	A		A		A					A	A	A		A			A						A				A					A						A						A		
+SNV879	A		A		A					A	A	A		A		A	A						A				A					A				A		A						A		
+SNV880	A		A	A	A				A	A	A	H	A	A	A	H	A	A			R	R	A		R						R	A				A								A		
+SNV881	A		A	A	A				A	A	A	A	A	A	A	A	A	A			A	A	A		R							A				A								A		
+SNV882	A		A	A	A				A	A	A	A	A	A	A	A	A	A			R	R	A	A								A				A					A			A		
+SNV883	A		A		A				A	A	A	A	A	A		A	A						A	A								A				A								A		
+SNV884	A		A		A				A	A	A	A	A	A		A	A						A	A					A			A				A		A						A		
+SNV885	A		A	A	A		A		A	A	A	A	A	A		A	A	A	A				A	A		A	A		A			A	A	A		A		A	A					A		
+SNV886	A	A	A	A	A				A	A	A	A	A	A	A	A	A	A	A	A	A		A	H	R	A					R	A		A	A	R		R	H	R				R	R	H
+SNV887	A	A	A	A	A	A			A	A	A	A	A	A		A	A	A		A	A		A	A		A									A				A							
+SNV888	A	A	A	A	A	A			A	A	A	A	A	A		A	A	A		A	A		A	A		R									A				A							
+SNV889	A	A	A	A	A	R			A	A	A	R	A	A		A	A	A		A	A		A	A		R									A				A							
+SNV890	A	A	A	A	A				A	A	A		A	A	A	A	A	A		A	A		A	A		R									A				A							
+SNV891	A	A	A	A	A				A	A	A		A	A	A	A		A		A	A		A	A					R						A				A							
+SNV892			A	A	A		A	A	A		A		A	A	A		A	A	A		A			A																						
+SNV893		R		A				R	R	R			R		R	R	R	R				R				R		A			R				R											
+SNV894	R		R		R		R	R	R	R	R		R	R		R	R	R				R				A			R						R				R						R	
+SNV895	R		R		R		R	R	R	R	R		R	R		R	R	R	R			R				A			R						R				R						R	
+SNV896	A		A		A		A	A	A	A	A		A	A		A	A	A	A	A		A			A	A			A						A				A						A	
+SNV897	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				A		A			A							A						A	
+SNV898	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				A		A			A			A				A						A	
+SNV899	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				A		A										A						A	
+SNV900	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A					A		A									A	A					A	A	A
+SNV901	A	A	A	A	A	H	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	R	A	A	A	A				A	A	A						R				A		
+SNV902	R	R	R	H	R		R	R	A	R	R	R	R	R		R		A	R	R	R	R	R					R				R		R	R	R		A								
+SNV903			A			A		A	A		A			A	A	A	A		A					A	A	A		A			A	A	R	A	H		A		A	H			A	R	H	R
+SNV904			A					A	A					A		A	A		A						R			A			A	A	R	A	H			A	A	A				R	H	R
+SNV905				A			A	A		A		A	A	A				A	A	A		A	A						A									A						A		
+SNV906	A		A	A		A			A	A	A		A			A	A	A				A	A					A				A		A		A				A					A	A
+SNV907	H	A		A	A		A	A	A		A	A	A	A	A	A	A	A	A		A	A		A			A	A			R			A	R			R		H						A
+SNV908	A	A			A			A	A			A		A		A	A	A		A			A					A																	R	
+SNV909			A	A			A			A	A				A	A	A	A		A			A									A		A												
+SNV910	A			A				A	A	A	A		A	A	A	A	A	A	A			A	A			A	A							A												
+SNV911	R	A	A		R				A	R						R	R	R				R	H		R		H					A		R						H				A		
+SNV912	R	A		R	R				A	H	H	A			A	R		R				R	A				A					A							A					A		
+SNV913	R			A					A	R	A		R	A		A	R	R	H	R	R	A													R										A	
+SNV914	H	R		R		A		R	R						R		R	A	R				R	R			A				A	R		R	R					A						
+SNV915	R	R		A		R		R	R						R		A	R	R				R	R			R				R	A		R	R					R						
+SNV916	R	R		A		R		A	A	R					R		H	R	A				R	R			R				R	R		R	R											
+SNV917	R	R		R				R	A	R					A		R	A	A			R	A	R			R				R	A			R											
+SNV918	A	A		A		A	A	A		A	A		A			A	A		A	A	A		A								A					A										
+SNV919	A		A	A				A	A	A							A	A				A						A							A										A	
+SNV920	A	A		A	A					A		A				A		A	A		A	A	A													A										
+SNV921		A		A		H	A	A		A		A			A	A		A		A		A	A																						A	
+SNV922		A	A	A				A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				A				A	A			A				A	A					A	
+SNV923		A	A	A	A			A		A	A	A	A	A	A		A	A				A	R				A												A							
+SNV924	R		A		R							R		R		R		R	A	R		A	A									A							R							
+SNV925		A			R					A					R	A	A	R		R		R			R		A	A						A									A			
+SNV926		A						A		A		A	A		A	A	A	A		A		A						A				A		A									A			
+SNV927		A			A	A		A		A					A	A	A	A		A		A						A				A											A			
+SNV928	A	A		A		A		A		A	A	A	A				A	A	A	A		A	A					A				A				A							A			
+SNV929		A		A				A		A		A	A				A	A	A		A	A	A					A				A				A							A			
+SNV930		R		R				H		R		A	A				H	R	R		A	A						R				A											R			
+SNV931		A	A		A		A	A		A	A	A	A		A	A	A	A	A		A	A						A				A		A			A		A				A			
+SNV932								R					R			R	R	A	R		A				R	R	R	R				A		R	A											R
+SNV933								A					A			A	A	R	A		R				R							R		A	R											A
+SNV934	A				A		A	A	A		A	A	A	A		A		A		H	A	A				A																				
+SNV935	R	R		R	R		R	R	R		R	R	R	R		R		R	R	R	R	R	R			A														R						
+SNV936		R	A	A	R		R		A	R		R		A	A	R		A	A			A			R																					
+SNV937			A	A	R		R		A	R		R		A	A	R		A	A			A			R																					
+SNV938	R		H	A	A		R			R		A	A	R	A	R	R	R	A		R												R													
+SNV939	R		H	A	H		R	R	A	H		A	A	R	A	R	A	R	A			A							R																	
+SNV940	R		H		H		R	R		R		A	R	R	A	H		A	A			R																			R					
+SNV941	R			A	A		R		A				A	A	A			H			A		R				R		A							A		A	A	R						
+SNV942	R				R			R			R	R	R	A		R	R			R	R	R					R				R			R												
+SNV943	R	A	A	H			R	R				A				H				R	A	R	A				R	A	R			A							R	A						
+SNV944	R		R				R	R		R		A					R			R		R			R			R				R		R		R								R	R	
+SNV945	A	R	R	R	R			H	R	R		R				A			R			A																	R					R	R	
+SNV946	R	A	R		R		R	A		A			A		A			R	R	R																										
+SNV947	R	A	R		R		R	A		A			H		A			R	R	A																							R			
+SNV948	A	R		R		R		R		R	R	R		A	R	R		R		R																		R					R			
+SNV949	R	R	A	H	R	R			A							R		A	A			A							A						R											
+SNV950	H	R	R	A		R	R		R	R		R				R		R					R				A	R						R	R									R	R	
+SNV951	R	R	H	H	R		R		R	R		H				R		R					R				R							R	R									R	R	
+SNV952	A	A	A	A	A	A	A		A	A		A				A		A					A				A	A						A	A									A	A	
+SNV953	H	A	R	R	A		R		R	R		R				H		R		R			R												R									R	R	
+SNV954	A	A	R	R	A		R		R	R		H				H		R		R			R												H									R	R	
+SNV955	A		A	A	A			A	A	A	A			A		A		A	A	A	A	A						A				A													A	
+SNV956	A		A	A	A			A	A	A		A		A		A		A	A	A	A	A	R					A		A		A						A							A	
+SNV957		A		A	A			A		A	A			A	A				A	A	A	A	A									A												A		
+SNV958	A	A	A	A	A		A	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A									A			A											
+SNV959	A	A	A		A		A	A		A	A	A	A	A	A			A			A	A	A		A			A				A	A													A
+SNV960	A		A		A		A	A	A	A	A	A		A	A			A			A	A	A					A																		A
+SNV961			A	A				A	A	A					A		A	A	A		A	H							A					A	A									A		
+SNV962	A		A	A	A		A	A	H				A	A	A			A	A		A		A									A	A		A			A						A		
+SNV963	R		R	R			R		A	A									A		R		A									H			A									A		
+SNV964	R		R	A			H			A		H		A	A		H	R	A		R	R	R			R			A			A			H										A	
+SNV965	A		A	A			A			A		A		A	A		A	A	A		A	A	A			A			A		A	A			A										A	
+SNV966			A	A		A	A	A		A		A		A	A		A	A	A	A	A	A	A						A						A										A	
+SNV967			A	A			A	A		A		A		A	A		A	A	A	A	A	A	A						A						A										A	
+SNV968	A		A	A	A		A	A	A	A	A	A		A	A		A	A			A	A							A			A			A											
+SNV969	A		A	A	A		A	A	A	A	A	A	A	A	A		A	A			A	A							A			A			A											
+SNV970	A		A	A	A		A		A	H	A	A	R	A	H		H	R	H	R	H	H	A			A		A	A			A		A	H	A			A						R	
+SNV971	A		A	A	A	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A			A		A	A			A			A	A		A	A			A			A	
+SNV972	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A			A		A	A		A	A			A	A	A		A				A		A	
+SNV973	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A		A	A		A	A			A	A			A					A	A	
+SNV974	R						R		R	R								R		R	R		R						H	R		R								R						R
+SNV975	R						R	R	R	R								R		R	R	R	R						H	R		R								R						R
+SNV976	A	A	A	A	A	A	A	A	A	A	A	A	R	A	A	A	A	A	A	A	A	A	A		A	A		A	A			A	A											A	A	
+SNV977	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A			A	A	A		A	A	A	A	A	A		A	A				A	A	A
+SNV978	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A					A	A	A	A	A		A	A	A	A		A	A			A	A	A	A
+SNV979	A	A	A	A	A		A		A	A	A	A	A		A		A	A			A	A	A																							
+SNV980	A						A	A	A	A		A			A			A		R	A	A	A																					A		
+SNV981	A						A	A	A	A					A			A	A		A	A	A						A																	
+SNV982	A		A					A	A	A	A				A			A	A	A		A	A						A						A				A					A		
+SNV983	A		A	R				R	H	H	A				A			R		H		H	A						A						R				R					A		
+SNV984	R	R			R		R		H	H		R			R		A	H	A	A		H	A					R	R			R			R											
+SNV985	R	R			R		R		H	H		R			R		A	H	A	A		H	A					R	R			R			R											
+SNV986			R				R	A	R	R			A		A				H	A		A													R			A	A							
+SNV987			R		R		R	A	H	R	R		A		A			H			A	R										A			R				A					R		
+SNV988	A		R				R	A	H	R	R		A		A			R	R		A	R										A			R				A							
+SNV989	R		R	R	A		R	A	A	R		R			A			A	A	A	R	H							A		R	A			R				R					R		A
+SNV990	A			A			A	A	A	A					A	A	A	A		A		A													A									A		
+SNV991	A			A		A	A	A	A	A				A	A		A	A		A		A													A	R								A		R
+SNV992	A		A	A		A	A	A	A	A	R	A			A		A	A		A			A					A	A					A	A										A	
+SNV993	A	A		A			A	A	A	A		A			A		A	A		A			A			A		A	A						A										A	
+SNV994	A			A		A	A	A	A	A							A	A	A	A		A						A	A		A				A				A						A	
+SNV995	A			A			A	A	A	A							A	A	A	A		A		A				A	A		A				A										A	
+SNV996			A				A	A	A	A	A															A		A						A	A				A					A		A
+SNV997	A		A	A	A		A	A	A	A							A	A		A	A	A	A					A								A										
+SNV998	A		A	A			A	A	A	A							A	A		A	A		A					A								A										
+SNV999	A		A	A			A	A	A	A							A	A		A	A	A	A					A				A				A										
+SNV1000	A		A	A			A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A					A	A			A			A	A			A					A	A	A
+SNV1001	R		R	R				R		R	R	R		R				R		R		R						R						R		R			R					R		A
+SNV1002			R	R			R	R	R	R		R			R			R	R	R			R					R							A	R			R	R						R
+SNV1003	R		A	A				A	A	R		A						H				R					A	A	R			A		R		R										R
+SNV1004	A		A	A				A	A	A		A						A				A					A	A	A			A		A		A										A
+SNV1005	A		A	A		A		A		R								R										A	R			A		H		R										
+SNV1006	R			R				R	R	R				R	R	R		R				R					R		R							H							R	R		
+SNV1007				H				H	A	R	A			A	R			H				R					A		A							H							A	H		
+SNV1008	R		R	A			A	R	A	R		H			A	R		R		R			R					R	R					R		R										
+SNV1009	R			R			A	R	R	R		R			R	R		R		R			A					R	R							R										
+SNV1010			R	A			H	R	A	R		A				R		A					R					R	R					R		R										
+SNV1011			A	A			A	A	A	A		A				A		A					A					A	A					A												
+SNV1012	R		A	R			R	H	R	R		R				A		R					R					R						A									A			
+SNV1013	H		A	R			R	R	R	R		R				A		R		A			R					R	A					A		A			A				R			
+SNV1014	H		A	R			R	R	R	R		R				A		R		A			R					R	A					A		A			A				R			
+SNV1015	H		R	A			H	A	A	A		A						A		R			A					A								R							A			
+SNV1016	A		A	A			A	A	A	A		A						A		A			A					A								A							A			
+SNV1017	A		A	R			H	R	R	R	A	R		H	R			R		H		H	R					R	A							A							R			
+SNV1018	R		R	A			H	A	A	A	R	A		R	A			A		H		H	A					A	R	R		A				R							A			
+SNV1019	H		A	R		R	H	R	R	R	A	R		H	R			R		H		H	R					R	A			R				A							R	R		
+SNV1020	A		A				A	A	A	A	A	A				A		A	A			A						A	A						A										A	
+SNV1021	A		A					A		A						A		A										A	A			A			A	A								A	A	
+SNV1022	A		H					A		A						R		R										R	H			A		A	A	A									A	
+SNV1023	A		H	R			H	H	A	R	R			A			A	A	A		R	H	R					A	A						H	A			A					A		
+SNV1024	A		A	A	A		A	A	A	A	A				A		A	A	A		A	A	A			A		A	A						A	A			A					A		
+SNV1025	A		A	A			A	A		A		A				A		A	A	A		A	A					A	A			A				A				A						
+SNV1026	R			H			H	A	A	H		A				R	R	H	A	R		R	R			A		A	A				A		A	R							A	A	A	
+SNV1027	A			A			A	A	A	A		A				A	A	A	A	A		A	A		A			A	A							A									A	
+SNV1028	R		R	R			R	R	R	R		R				R		R	R	R			R					H	R				R			R									R	R
+SNV1029	H	A		A			R	A	A	R			R	R				R	A			A								A		R				A										
+SNV1030	A	A		A			A	A	A	A			A	A				A	A			A										A				A										
+SNV1031	A	A		A			R	A	A				A	R				A	A			A										A		A		A										
+SNV1032	R	R	R	R	R		R	R	R	R	R	R	R	R		R	R	R	R	R	R	R	R			A	R	R						R										R		
+SNV1033	R	R	R	R	R		R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R	R			R	R		R					R	R			R	R	R	
+SNV1034	H				A	R	R	H	A	A	A		R	R			R	A		A	A						R				R	R								R						
+SNV1035	R	R	R				A		A	A	A		A	R	H	A			R		A		R																							
+SNV1036	A	A			A			A	A	A	A		A	A	A	A		A			A		A																A							
+SNV1037	A	A	A					A		R	A	A						A				A	A						A			A		A	A				A					A	A	
+SNV1038	R				R					R				A	A	R	R	A	R		R		A		R								R			A								A	R	
+SNV1039	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A		A	A			A	A	A				A	A	
+SNV1040	H				A		A	A		A	A	R	A	A	A	A	A	A		A	R			A	R	A	A		A			A														
+SNV1041	A	A		A				A	A	A	A		A		A	A	A	A		A		A	A				A	A						A	A										A	
+SNV1042	A	A		A				A		A	A		A		A	A	A	A		A	A	A	A				A	A						A	A										A	A
+SNV1043	A	A		A				A		A	A		A			A	A	A		A	A	A	A	A			A	A						A	A										A	A
+SNV1044	R						A	H			R	A	A	A	R		A	R		A			A											R												
+SNV1045	R						R	R			R	R	R	R	R		R	R		R			A											R												
+SNV1046	R				R	A	A	A			R		A	A	R		A	R		A		A	A				A							R												
+SNV1047	R		A				A	H			R		A	A	R		A	R		A			A											R												
+SNV1048	A				R	A	A	R	A		A	R	R					A	H	R		R	R				A							R												
+SNV1049	A	R	H		R			A	A	R	A	A	R	A		A	R	H			A	H		R	A				A										A							
+SNV1050	A	R	H		R			A	A	R	A	H	R	A		A	R	H			A	H		R	A				A										A							
+SNV1051	A	A		A			A	R		A							A	A	A	R		A	A											R												
+SNV1052	A	A	R	R		R	R	R		A	A		H	A	R	R	R	A	H	R	A	A	R			R	R					R	A		A			R	A					R		
+SNV1053		R		R	R			R			R					R	R	R		R			R			R	R							R						H						
+SNV1054	A	A		A	A					A		A			A	A	A	A	A	A			A																A							
+SNV1055	R	R	R	R	R			R				R			A	R	R			R	R		R					R	R						R											
+SNV1056	A			A			A	A		A	A	A	A	A	A	A	A	A	A		A				A	A	A	A			A		A	A	A				A					A	A	A
+SNV1057	A			A		A	A			A	A	A	A	A		A	A	A	A		A	A				A	A								A				A	A				A	A	A
+SNV1058	A			A			A				A	A	A	A			A	A	A		A	A					A								A					A				A	A	
+SNV1059			R	R				R		R				R	R	R		R			R					R					A			R	R											R
+SNV1060				A	A			A		A	A	A	A	A	A					A			A				A							A	A					A						
+SNV1061	A				A		A	R	R		R	A		A	R	H	R	R					R			R			R				R													
+SNV1062	A	A		A			A	A		A	A	A	A			A	A		A	A	A	A	A	A		A					A		A	A		R			A	A					A	
+SNV1063	A	R					A	A	A	R	R					R		A		R													A						R						R	
+SNV1064			A	A	A			A	R	H	A						A		R			R	R			R		R				A				A									H	
+SNV1065	A		A	A	A			A	R	H	A				A	A		A	R	A	A	R	H	R			R		R			A		R				R							A	
+SNV1066	A		A	A	A		A	H	R	H	A	A			A	A		H	R	A	A	R	A						R			A		R				R							R	
+SNV1067	R			R				R				R			R	R		R		R	R					R								R					H							
+SNV1068	A		A	A	A		A	A		A	A		A				A	A				A	A					A			A	A		A												A
+SNV1069			R	R	R			R			R		R	R	H	R	R	R			R							R						R						R						
+SNV1070		A	A					A		A			A			A	A	A	A	A	A	A	A			A								A										A		
+SNV1071	R	R	R				R	R	R	R	R		R		R	R		R		R	R	R					A																	R	R	A
+SNV1072	A	A	A					A			A		A			A				A							A			R		A												A		
+SNV1073	A		A	A				A	A		A	A		A	A			A				A	A			A	A				A	A		A		A		A		A						
+SNV1074	A		A		A			A	A		A	A			A			A				A	A			A		A	A									A								
+SNV1075	A		A		A			A	A		A	A			A			A				A	A			A		A	A									A								
+SNV1076			A		A		A	A	A	A	A		A	A		A		A		A			A					A											A							
+SNV1077	R			R	R	R		R	R	R	R	R	R					R		R			R								R		H							R						R
+SNV1078	R	R	R	H	R		R	A	R	R	R	R	A	R	R	R	R	R	R	R	R	R	R		R		R				R	R		R	R	R		R	R						R	
+SNV1079	R	R	R	R				R			R		R	R		R	R		R			R	R	A	A	R		R	R		A		A		R			R						A		R
+SNV1080	A	A		A	A	A			A	A	A							A			A		A					A						A				A		A						
+SNV1081	A	A		A	A					A	A						A	A	A	A	A	A	A				A	A						A						A						
+SNV1082	A	A		A	A					A	A				A		A	A		A	A	A					A	A						A						A						
+SNV1083		A	A	A			A	A	A	A	A		A		A			A	A	A	A	A	A		A	A	A	A			A	A	A	A					A					A	A	A
+SNV1084	R	H	H	R			H	H	R	R	R	R	R			R	H	H		R	R	H	H	R	R	R	R	R	R			H	R	R		R			R	R	R	R	R	H	H	H
+SNV1085	R	R	R		R		R	R	R	R	R	R	R	R	R	R	R	R	R	R	R		R			R			R		R	R		R		R		A	R	R			A	A		
+SNV1086	R	H	A	R	A		A		A		A	R	R	A	A	A			R	A		R					A	A						A				R	A	A				R		A
+SNV1087	A		A	A	A		A		A	A	A	A		A	A	A			A	A		A		A		A	A	A			A			A				A		A						
+SNV1088	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A		A		A	A	A		A	A		A						A				A		
+SNV1089	H	A	A	R	R	R	H	H		H	H	A	H	H	H	H	R	R	A	A	R	H	A				R	R	R		A	R	R	R						A	R			A		
+SNV1090	R	R		A							R	R		H	R	R	A	R					A									A														
+SNV1091		A		A	A		A		A	A		A		A	A		A		A				A					A				A		A						A		A			A	
+SNV1092	A	A		A	A		A			A		A		A	A		A			A		A	A					A			A	A										A			A	
+SNV1093	R	R			R	R		R			R			R		R		R				R	A																R							
+SNV1094	A		A											A			A		A	A		A	A		A			A							A	A										
+SNV1095	A			A			A	R	A	A	A					A		A				A						A	A					A	A				A	A				A		
+SNV1096	A			A			A	A	A	A	A					A		A		A		A						A	A						A				A					A		
+SNV1097	A	A	A	A	A		A	A		A		A			A	A	A	A	A	A		A						A			A	A			A				A						A	
+SNV1098	A		A		A		A	A		A		A			A		A	A	A	A		A										A			A				A							
+SNV1099	A		A		A			A	A	A	A			A	A		A	A	A			A	A						A																A	A
+SNV1100	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A				A				A	A				A			A					A	A	
+SNV1101	R		R					R		R			R			R	R	R	A	R	R								R					R												
+SNV1102	A	A	A		A			H		A	R	H	A	R	A	H	A	H	A	A	A	R	A	A		A	A		A		A			A							A					
+SNV1103	A	H	H	A	A			H	R	R	A	A	A	H	R	A	A	H	R	A	A	R	A	H		R	A		R		A			A							R					
+SNV1104					R			R				R		R						R			R				R	R			R					R			R						H	
+SNV1105	R	R	A	R	R		A				R		A	A		A		A	R	R		H	A		A	R	R				R			R		R									R	
+SNV1106		A	A	A						A	A		A			A				A	A			A	A			A			A			A					A							
+SNV1107	R	R		R	R	R	R	R	R		R	R		R	R	R		R		R	R	R			R		R	R	H				R		R					R					R	
+SNV1108		A		A				A	R	H			R	R	R		R	H										R																A		
+SNV1109		A		A				A	A	A			A	A	A		A	A	A			A						A																A		
+SNV1110				R			R		R			R	R	R		R				R	R							H				R														R
+SNV1111				A			A	A	A			A	A	A		A				A	A		A					A				A		A	A											
+SNV1112				R			A	R	A			R	R	A		A				R	A		A					H				A		R	A											
+SNV1113				A	A		A	A	A			A	A	A		A				A	A		A					A				A													A	
+SNV1114	R	R	R	H	R		R		R	R	R	R	H	R	R	R		R		R	R	R	R		R		R	R	R			H		R	R				R	R					R	
+SNV1115	R			R			R			R			R							A								R			A	R		R								H	H			
+SNV1116	R	R	R	H	R					A			A	A							R	R						R	R						R											
+SNV1117	R			R		R	R		R	R	R		R								R						R	R	R			R		R						H						
+SNV1118		R					R	R	R		R	R		R	A	R		R		A	R	R					R	R					R							R					R	
+SNV1119	R	R	R	R	R		R	R		R	R		R	R	R		R	R	R		R	R		R		R	R	R			A			R	R					A					H	A
+SNV1120	R	R	R	R	R	R	R	R	R	R	R		R	R	R	R	R	R	R	R	R	R		R	R	R	R	R	A		R	R	R	R	R			R		R				R	R	R
+SNV1121	R	A	R					R	A							R	A	R				H	A		R			R					A												R	A
+SNV1122		R					R		R	R		R	R	R	R	R	R	R		R	R	R		R		R		R			A			R										R		
+SNV1123	A	A	A	A	A		A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A			A	A		A	A	A		A	A	A	R	A	A	A	A	A
+SNV1124	A	A	A	H	A		A	A	A	A	A	A	A	A	A	A	A	A	H	A	A	A	A		A	A	A	A	A		A	A	A	A	A	A	A	A	R	A		A	H	A	A	
+SNV1125	A	A	A	H	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	R	A	A	A	A	A	A	A	A	A	A		A	R	A	A	
+SNV1126	A	A	A	A	A	R	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	R	A	A	A	A	H	A		A	A	A	H	A		A	A	R
+SNV1127	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	R	A	A	A
+SNV1128	A	A	A	R	A		A	A	A	A	A	A	A	A	A	A	A	H	A	A	A		A		A	A	A	A		A	A		R		A				A	A				A	A	A
+SNV1129	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A			A	A		A	A		A	A		A	R		A	A	A	
+SNV1130	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A			A	A		A	A	A		A		A				A	A	
+SNV1131	A	A	A	A	A	H	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A			A	A		A	A	A		A		A	A	A	R	A	A	A
+SNV1132	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A	A	A
+SNV1133	A	A		A		H	H	A	R	R	H	A	A		A	R	A	A	A	R		A	A	A			A	A			A	A					A						A	A	A	A
+SNV1134	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A	A		A	A	A	A	A		A			A		A	A	A	A	A
+SNV1135	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A	A		A	A	A	A	A			A		A	A	A		A	A	A
+SNV1136		A					A	A		A		A	R		A	A	A		A			A	A	A	A	A	A	A						A	A								A	A	A	A
+SNV1137	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	R	A	A	A	A	A	A	A	A	A	A	H	A	A	A	A	A
+SNV1138	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A
+SNV1139	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	R	R	A	A	H	A	A	A	H	A	R	A	R	A	A	A	A	R
+SNV1140	R	A		A	A		A	A	A		A	A	A	A	R	A	R		A	A	A	A	A	A	A	A	A	R		A	A	A	A	A	A	A		A		H	R	A		A	A	A
+SNV1141	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A				A		A		A	A	A
+SNV1142	A	A	A	A	A	H	A	A	A	A	A	A	A	A	A	A	A	A	A	A	R	A	A	R	A	A	A	A	A		A	A	H	A	A	A	A	A	A	A	H	A		A	A	
+SNV1143	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A		A	A	A	A	A
+SNV1144	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A		A	A	A
+SNV1145	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	H	A	A	A	A	A	A	A	A	H	A	A	A	A	A	A	A	A	A	A	H	A	R	A	A	A
+SNV1146	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A			A	A	A	A	A	A		A	A	A	A	A		A	A	A
+SNV1147	R	R	R	R	R		R		R	R	R	R	R	R	R	R	R	R		R	R		R	R			R	R			R			R												
+SNV1148	A	A	A	A	A	A	A	A						A	A			A		A			A									A														
+SNV1149	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A	A		A	A	A	A	A																	A				A	A	
+SNV1150	A	A	A	A	A	H	A	A	R	A	A	A	A	A	A	A	A	A	A	A	A	A	A			A	A		A							A										
+SNV1151	A	A	A	A	A	A	A	A		A	A	A	A	A	A	A	A	A	A	A	A	A	A			A	A		A							A			A	A						
+SNV1152	A		A	A							A	A	A	A	A		A		A	A			A	A																						
+SNV1153		A			A					A	A	A	A			A	A		A	A		A	A																A							
+SNV1154	R	R		R			R	R		R	A	R				R		R				R							R						R											
+SNV1155	A	A			A			A	A			A	A	A	A	A	A	A	A	A	A		A					A				A														
+SNV1156	A			A				A			A	A				A				A			A	A				A							A	A				A						
+SNV1157	A	A	A	A	A		A	A		A	A		A	A		A	A	A	A	A	A	A	A		A		A	A			A	A	A	A	R	A			A					A		
+SNV1158	A	A	A	A	A		A	A		A	A		A	A		A	A	A	A	A	A	A	A		A		A	A			A	A	A	A	R	A			A					A		
+SNV1159	A	A	A		A			A		A	A		A	A		A	A	A	A	A	A	A	A		A		A	A			A	A	A	A	R	A			A					A		
+SNV1160		A		A			A	A		A	H	A	A	A	A	A		R	A		A	A		A							A	A				A			A						A	
+SNV1161			A	R			R	R		A	R		R	R		R	A	R		R			R	A	R		R					R							R							
+SNV1162		R			R			R	R	A	R						R	R			R	R	R											R											R	
+SNV1163	R	R	R	R	R			R		R	R		R	R		R		R	R			R																						H	R	
+SNV1164		A		A					A	A					A		A	A			A		A			A	A	A		A		A		A					A	A				A		
+SNV1165		R		R					R	R					A		R	R			R		R					R						R				R	R							
+SNV1166		R		R					R	R					A		R	R			R		R					R						R				R	R							
+SNV1167		A		A					A	A					A		A	A			A		A					A						A				A	A							
+SNV1168	A							A		A	A	A		A	A	A			A	A	A	A		R			A	A			R				A											
+SNV1169	H	R	R	A	R		A		R	R	R	R			R	R	R	R		R	R		R				R		R																	
+SNV1170	R	R		R	R			R	R	R		R					H		R				R																						R	
+SNV1171	R	R			R			R				A	R			R			R	R			R	R										R									R			
+SNV1172	R	H		R	R			H				R	R			R		R	A	R			A	A																			R			
+SNV1173			A				A		A				A			A						A			A						A			A	A					A	A	A	A			
+SNV1174			R				A		R				R			A						A					A				R		A	A	R					A	A	A	A			
+SNV1175			A				A		A				A			A						A					A				A			A	A					A	A	A	A			
+SNV1176			R				A		R				R			A															R			A	R					A	A	A	A			
+SNV1177			R				A		R				R			A						A									R			A	R					A	A	A	A			
+SNV1178			R						R				R			A															R			A	R					A	A	A	A			R

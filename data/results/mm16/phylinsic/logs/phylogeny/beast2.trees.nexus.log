@@ -1,0 +1,21 @@
+                        LogCombiner   v2.6.7, 2002-2022
+                                        
+                                       by
+                      Andrew Rambaut and Alexei J. Drummond
+                                        
+           Institute of Evolutionary Biology, University of Edinburgh
+                               a.rambaut@ed.ac.uk 
+                                        
+             Department of Computer Science, University of Auckland
+                            alexei@cs.auckland.ac.nz 
+                                        
+                          Part of the BEAST 2 package:
+                        http://beast2.cs.auckland.ac.nz/ 
+                                        
+                                         
+Writing to file data/results/mm16/phylinsic/output/phylogeny/beast2.trees.nexus.txt
+Loading data/results/mm16/phylinsic/output/beast2/beast2/tree.log skipping 1000 trees
+
+|---------|---------|---------|---------|---------|---------|---------|---------|
+*********************************************************************************
+Wrote 1001 lines to data/results/mm16/phylinsic/output/phylogeny/beast2.trees.nexus.txt

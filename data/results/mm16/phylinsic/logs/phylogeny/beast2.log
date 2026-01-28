@@ -1,0 +1,62 @@
+Loading required package: beautier
+Loading required package: beastier
+
+Attaching package: ‘beastier’
+
+The following objects are masked from ‘package:beautier’:
+
+    is_on_appveyor, is_on_ci, is_on_travis
+
+Loading required package: mauricer
+Loading required package: tracerer
+Registered S3 method overwritten by 'TreeTools':
+  method   from    
+  [.phyDat phangorn
+
+Attaching package: ‘dplyr’
+
+The following object is masked from ‘package:ape’:
+
+    where
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+
+Attaching package: ‘data.table’
+
+The following objects are masked from ‘package:dplyr’:
+
+    between, first, last
+
+ggtree v3.14.0 Learn more at https://yulab-smu.top/contribution-tree-data/
+
+Please cite:
+
+S Xu, Z Dai, P Guo, X Fu, S Liu, L Zhou, W Tang, T Feng, M Chen, L
+Zhan, T Wu, E Hu, Y Jiang, X Bo, G Yu. ggtreeExtra: Compact
+visualization of richly annotated phylogenetic data. Molecular Biology
+and Evolution. 2021, 38(9):4039-4042. doi: 10.1093/molbev/msab166
+
+Attaching package: ‘ggtree’
+
+The following object is masked from ‘package:TreeTools’:
+
+    MRCA
+
+The following object is masked from ‘package:ape’:
+
+    rotate
+
+[1] "Start with 46 sequences and 1178 positions."
+[1] "Final data has 46 sequences and 1178 positions, 55.0% sparse."
+[1] "Fitting tree over 10,000,000 iterations."
+[1] "Using BEAST2 launcher at /cluster/work/bewi/members/znorio/beast2/beast/lib/beast.jar"
+[1] "run time 1658.171s"
+[1] "total 1e+07 iterations"
+[1] "The beast is done"
