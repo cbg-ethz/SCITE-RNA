@@ -1,0 +1,35 @@
+
+              TreeAnnotator v2.6.7, 2002-2022
+                    MCMC Output analysis
+                             by
+           Andrew Rambaut and Alexei J. Drummond
+
+             Institute of Evolutionary Biology
+                  University of Edinburgh
+                     a.rambaut@ed.ac.uk
+
+               Department of Computer Science
+                   University of Auckland
+                  alexei@cs.auckland.ac.nz
+
+
+Processing 1001 trees from file.
+
+
+Total number of trees 1001, where 1001 are used.
+Total unique clades: 404
+
+Finding maximum credibility tree...
+Analyzing 1001 trees...
+0              25             50             75            100
+|--------------|--------------|--------------|--------------|
+*************************************************************
+
+Highest Log Clade Credibility: -22.945586266343597
+Collecting node information...
+0              25             50             75            100
+|--------------|--------------|--------------|--------------|
+*************************************************************
+
+Annotating target tree...
+Writing annotated tree....

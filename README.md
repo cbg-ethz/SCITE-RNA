@@ -9,11 +9,10 @@ The code and datasets provided here enable users to replicate the experiments an
 - [Installation](#installation)
   - [Requirements](#requirements)
   - [Cloning the Repository](#cloning-the-repository)
-  - [Data Preparation](#data-preparation)
 - [Running the Model](#running-the-model)
   - [Set Model Parameters](#set-model-parameters)
   - [Simulated Data](#simulated-data)
-  - [Multiple Myeloma Data](#multiple-myeloma-data)
+  - [Cancer Data](#multiple-myeloma-data)
   - [Run on New Data](#run-on-new-data)
 - [Generating Figures](#generating-figures)
 
@@ -27,7 +26,7 @@ We maximize the likelihood of the inferred tree by alternating between the cell 
 This repository provides:
 1. Scripts to execute SCITE-RNA. The model is split into C++ `src_cpp` and Python files `src_python`. Especially for large numbers of cells and SNVs it is recommended to use the C++ code, as it is significantly faster. The inferred trees should be comparable between the C++ and Python implementations, but as the method is stochastic likely won't produce the exact same tree. 
 2. Data used in the paper are available in the `data_summary/`and `data/` directories, which contain all necessary files to reproduce the figures.
-3. Visualization scripts to generate plots as presented in the paper.
+3. Visualization scripts/notebooks to generate plots as presented in the paper.
 
 
 ## Repository Structure
@@ -36,15 +35,19 @@ This repository provides:
 ├── data_summary/               # Summary data files, as the raw output is quite large <br>
 ├── data/                       # Input data files and results <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── input_data               # Alternative and reference read counts among other files. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── results                  # Inferred trees of the multiple myeloma dataset and consensus tree results <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── results                  # Inferred trees of the cancer datasets and consensus tree results <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── simulated_data           # Simulated data and inference results <br>
 ├── generate_results_cpp/       # C++ scripts to run SCITE-RNA on various datasets <br>
 ├── generate_results_python_r/  # Python and R scripts for simulating data, inferring trees and visualization <br>
+├── phylinsic_scripts/          # Slightly adapted code to run PhylinSic https://github.com/U54Bioinformatics/PhylinSic_Project on our simulated data <br>
 ├── src_cpp/                    # C++ source files for SCITE-RNA <br>
 ├── src_python/                 # Python source files for SCITE-RNA <br>
 ├── config/                     # Model parameters <br>
 ├── CMakeLists.txt              # Primary configuration file for CMake <br>
-└── README.md                   # Project overview and setup instructions
+├── README.md                   # Project overview and setup instructions <br>
+├── environment.yml             # Conda environment file with required Python packages <br>
+├── Snakefile                   # Snakemake file to run the PhylinSic pipeline on simulated data <br>
+└── Snakefile_real_data.smk     # Snakemake file to run the PhylinSic pipeline on cancer data
 
 ## Installation
 
@@ -53,14 +56,21 @@ This repository provides:
 #### Python Libraries:
 - numpy
 - pandas
+- scikit-learn
 - matplotlib
 - seaborn
 - scipy
 - numba
-- math
 - jupyter
 - pyyaml
-- graphviz
+- python-graphviz
+- pygraphviz
+- dendropy 
+
+Using conda:
+
+    conda env create -f environment.yml
+
 
 #### C++ Requirements
 
@@ -84,7 +94,7 @@ If desired adjust model parameters in `config/config.yaml`.
 
 ### Simulated Data
 
-To **generate new simulated data** and compare different numbers of clones execute:
+To **generate new simulated data** with various parameter settings and different numbers of clones execute:
 
     generate_results_python_r/comparison_data_generation.py
 
@@ -104,9 +114,9 @@ mutation tree optimization, starting from a random cell lineage tree.
 
 All simulated results will be saved in `data/simulated_data/`.
 
-### Multiple Myeloma Data
+### Cancer Data
 
-To run SCITE-RNA on the Multiple Myeloma datasets:
+To run SCITE-RNA on the cancer datasets:
 
 Run either 
 
@@ -114,7 +124,7 @@ Run either
 
 or (recommended) run the faster C++ version:
 
-       generate_results_cpp/.cpp
+       generate_results_cpp/real_data_processing.cpp
 
 Results will be saved in `data/results/`.
 
@@ -137,12 +147,7 @@ where columns represent cells and rows represent SNVs.
 ### Data Preparation
 
 To reproduce the figures quickly you can use the files provided in `data` and `data_summary`. 
-As the size and the number of raw data files was quite large, we produced summary statistics
-using 
-
-    generate_results_python_r/generate_summary_statistics.ipynb
-
-To reproduce the plots presented in the paper, follow the instructions below:
+As the size and the number of raw data files was quite large, we produced summary statistics. To reproduce the plots presented in the paper, follow the instructions below:
         
 - **Figure 3: Comparison of tree optimization strategies**
 
@@ -155,7 +160,7 @@ To reproduce the plots presented in the paper, follow the instructions below:
         generate_results_cpp/space_switching_results_postprocessing.cpp
 <br>
 
-- **Figure 4: Comparison to SClineager and DENDRO including runtimes**
+- **Figure 4: Comparison to SClineager, PhylinSic and DENDRO including runtimes**
         
         generate_results_python_r/comparison_num_clones.ipynb
    
@@ -165,7 +170,7 @@ To reproduce the plots presented in the paper, follow the instructions below:
           generate_results_cpp/comparison_num_clones.cpp
           generate_results_python_r/comparison_clones_sclineager_dendro_sciterna.R       
       
-- **Figure 5/6: Multiple myeloma**
+- **Figure 5/6/7: Cancer datasets**
           
           generate_results_python_r/results_real_data.ipynb
 

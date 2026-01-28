@@ -38,7 +38,7 @@ class MutationFilter:
         if genotype_freq is None:
             genotype_freq = {'R': 1 / 3, 'H': 1 / 3, 'A': 1 / 3}
         self.genotype_freq = genotype_freq
-        self.alpha_R = error_rate * overdispersion # TODO rename error_rate to f_R as f_R = 1/3 error_rate / (1-2/3 * error_rate)
+        self.alpha_R = error_rate * overdispersion
         self.beta_R = overdispersion - self.alpha_R
         self.alpha_A = (1 - error_rate) * overdispersion
         self.beta_A = overdispersion - self.alpha_A

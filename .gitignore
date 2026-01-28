@@ -3,3 +3,8 @@ src_python/__pycache__/
 .idea
 data/eigen3
 data/yixuan-LBFGSpp-9db7a6d
+data/simulated_data
+data/varia
+/data/input_data/BT_S2/gene_expression_counts.csv # file size too large, extract from zip locally
+data/input_data/BT_S2/gene_expression_counts.csv
+/.snakemake/

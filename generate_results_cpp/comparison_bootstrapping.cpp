@@ -35,7 +35,7 @@ int main(int argc, char* argv[]) {
     double posterior_threshold = 0.05; // posterior threshold for filtering mutations, only used if method is "threshold"
     std::string method = "first_k"; // "threshold", "first_k", or "highest_post"
     int n_rounds = 2; // number of rounds for tree inference and parameter optimization
-    bool flipped_mutation_direction = true; // whether to allow to change the root genotype during tree inference
+//    bool flipped_mutation_direction = true; // whether to allow to change the root genotype during tree inference
     bool only_preprocessing = false; // if true, only preprocess the data and do not run the inference
     std::vector<std::string> tree_space = {"c", "m"}; // tree space to use, "c" for cell space, "m" for mutation space, or both
     bool reshuffle_nodes = true; // whether to reshuffle the nodes in the mutation tree space by pruning and re-inserting individual nodes

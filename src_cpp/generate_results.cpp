@@ -125,7 +125,8 @@ void generate_sciterna_simulation_results(
         const std::vector<std::string>& tree_space = {"c", "m"},
         bool flipped_mutation_direction = true,
         int n_keep = 50,
-        int n_rounds = 3) {
+        int n_rounds = 3,
+        bool insert_nodes = true) {
 
     load_config("../config/config.yaml");
 
@@ -157,7 +158,7 @@ void generate_sciterna_simulation_results(
 
         auto [selected, gt1, gt2, not_selected_genotypes] = mf.filter_mutations(ref, alt, "first_k", 0.5, n_keep);
         process_rounds(mf, optimizer, ref, alt, n_snvs, n_rounds, pathout, i, selected, gt1, gt2,
-                       not_selected_genotypes);
+                       not_selected_genotypes, 100, insert_nodes, false);
 
         auto end_time = std::chrono::high_resolution_clock::now();
         std::chrono::duration<double> elapsed = end_time - start_time;
@@ -175,7 +176,7 @@ void generate_sciterna_results(
         const std::string& path = "./comparison_data/",
         std::string pathout = "./comparison_data/results",
         int n_bootstrap = 100,
-        bool use_bootstrap = true,
+        bool use_bootstrap = false,
         const std::vector<std::string>& tree_space = {"c", "m"},
         bool flipped_mutation_direction = true,
         int n_keep = 50,
