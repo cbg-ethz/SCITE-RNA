@@ -20,7 +20,8 @@ PHYLO_DIR = opj(DATA_DIR, "phylinsic", "output/phylogeny")
 PHYLO_LOG_DIR = opj(DATA_DIR, "phylinsic", "logs/phylogeny")
 DEMUX_DIR = opj(DATA_DIR, "phylinsic", "output/demux")
 BEAST_OUTPUT = opj(DATA_DIR, "phylinsic", "output/beast2")
-BEAST2_DIR = r"/beast2/beast" #TODO replace
+BEAST2_DIR = r"/beast2/beast" # TODO replace with actual path to beast2
+
 
 PHYLINSIC_GENOTYPE_DIR = opj(DATA_DIR, "phylinsic", "phylinsic_genotype")
 PHYLINSIC_PARENT_VEC_DIR = opj(DATA_DIR, "phylinsic", "phylinsic_parent_vec")
@@ -37,7 +38,7 @@ cells = [f"Cell{i}\tno\tA" for i in range(1, NUM_CELLS+1)]
 with open(opj(DEMUX_DIR, "cells.txt"), "w") as f:
     f.write("Cell\tOutgroup\tCategory\n" + "\n".join(cells))
 
-LOGCOMBINER = r"/beast2/beast/bin/logcombiner" #TODO replace
+LOGCOMBINER = r"/beast2/beast/bin/logcombiner" # TODO replace with actual path to logcombiner
 RSCRIPT = "Rscript"
 JAVA = "java"
 
@@ -184,7 +185,7 @@ rule run_beast2:
         opj(PHYLO_DIR, "mutations_{test}.fa")
     output:
         beast_output_dir = directory(opj(BEAST_OUTPUT,"beast2_{test}")),
-        beast_model=opj(BEAST_OUTPUT, "beast2_{test}", "beast2.model.RDS"),
+        # beast_model=opj(BEAST_OUTPUT, "beast2_{test}", "beast2.model.RDS"),
         tree_log=opj(BEAST_OUTPUT, "beast2_{test}", "tree.log"),
         runtime=opj(BEAST_OUTPUT, "beast2_{test}", "run_beast2_runtime_seconds.txt"),
 
@@ -212,25 +213,25 @@ rule run_beast2:
             --rng_seed {params.rng_seed} >& {log}
         """
 
-rule summarize_beast2:
-    input:
-        opj(BEAST_OUTPUT, "beast2_{test}", "beast2.model.RDS"),
-    output:
-        opj(PHYLO_DIR, "summary_{test}.txt"),
-        opj(PHYLO_DIR, "summary.ess_{test}.txt"),
-    log:
-        opj(PHYLO_LOG_DIR, "summary_{test}.log")
-    conda:
-        "phylinsic_scripts/R_scripts.yaml"
-    params:
-        RSCRIPT=RSCRIPT,
-        sample_interval=BEAST2_SAMPLE_INTERVAL,
-        burnin=BEAST2_BURNIN,
-    shell:
-        """{params.RSCRIPT} phylinsic_scripts/summarize_beast2.R \
-            {input[0]} {params.sample_interval} {params.burnin} \
-            {output[0]} {output[1]} >& {log}
-         """
+# rule summarize_beast2:
+#     input:
+#         opj(BEAST_OUTPUT, "beast2_{test}", "beast2.model.RDS"),
+#     output:
+#         opj(PHYLO_DIR, "summary_{test}.txt"),
+#         opj(PHYLO_DIR, "summary.ess_{test}.txt"),
+#     log:
+#         opj(PHYLO_LOG_DIR, "summary_{test}.log")
+#     conda:
+#         "phylinsic_scripts/R_scripts.yaml"
+#     params:
+#         RSCRIPT=RSCRIPT,
+#         sample_interval=BEAST2_SAMPLE_INTERVAL,
+#         burnin=BEAST2_BURNIN,
+#     shell:
+#         """{params.RSCRIPT} phylinsic_scripts/summarize_beast2.R \
+#             {input[0]} {params.sample_interval} {params.burnin} \
+#             {output[0]} {output[1]} >& {log}
+#          """
 
 
 perc_burnin = int(round(float(BEAST2_BURNIN) / BEAST2_ITERATIONS * 100))

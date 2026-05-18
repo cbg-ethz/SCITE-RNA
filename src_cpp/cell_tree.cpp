@@ -473,7 +473,7 @@ std::tuple <double, bool, std::vector<double>, std::vector<double>> CellTree::jo
                 if (llr[anchor][i] < max_in_column){
                     current_llr_max_without_anchor[i] = max_in_column;
                 }
-                    //  otherwise we have to recalculate without anchor
+                //  otherwise we have to recalculate without anchor
                 else{
                     double max_in_column_without_anchor = -std::numeric_limits<double>::infinity();
                     for (size_t j = 0; j < n_vtx; ++j) {
@@ -488,7 +488,7 @@ std::tuple <double, bool, std::vector<double>, std::vector<double>> CellTree::jo
                 if (llr[anchor][i] > min_in_column){
                     current_llr_min_without_anchor[i] = min_in_column;
                 }
-                    //  otherwise we have to recalculate without anchor
+                //  otherwise we have to recalculate without anchor
                 else{
                     double min_in_column_without_anchor = std::numeric_limits<double>::infinity();
                     for (size_t j = 0; j < n_vtx; ++j) {
@@ -543,7 +543,7 @@ std::tuple <double, bool, std::vector<double>> CellTree::jointCalculationNotFlip
                 if (llr[anchor][i] < max_in_column){
                     current_llr_max_without_anchor[i] = max_in_column;
                 }
-                    //  otherwise we have to recalculate without anchor
+                //  otherwise we have to recalculate without anchor
                 else{
                     max_in_column = -std::numeric_limits<double>::infinity();
                     for (size_t j = 0; j < n_vtx; ++j) {

@@ -52,8 +52,7 @@ def plot_results(num_cells_list, num_mut_list, optimal_tree_llh, n_rounds, title
         else:
             plot_boxplot(axes[1, s], relative_data, labels, "", "", xlabels)
 
-    # plt.tight_layout()
-    plt.savefig(f"../data/results/figures/space_switching_{title}.pdf")
+    # plt.savefig(f"../data/results/figures/space_switching_{title}.pdf")
     plt.show()
 
 

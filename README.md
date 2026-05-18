@@ -1,6 +1,6 @@
 # SCITE-RNA
 
-This repository contains the code and data for the paper **Phylogenetic tree inference from single-cell RNA sequencing data**. 
+This repository contains the code and data for the paper **Phylogenetic tree inference from single-cell RNA sequencing data with SCITE-RNA**. 
 The code and datasets provided here enable users to replicate the experiments and figures presented in the paper, as well as to run SCITE-RNA on new data.
 
 ## Table of Contents

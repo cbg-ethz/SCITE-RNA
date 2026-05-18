@@ -107,13 +107,13 @@ def main():
     from src_python.cell_tree import CellTree
 
     parser = argparse.ArgumentParser(description="Convert bootstrap samples of trees to consensus parent vectors")
-    parser.add_argument("--input_folder", type=str, help="Path to the input folder containing bootstrap tree files.", default="mm34") # "50c500m"
-    parser.add_argument("--base_path", type=str, help="Base path for the files", default="../data/results") # "/cluster/work/bewi/members/znorio/SCITE-RNA-v2/data/results"
+    parser.add_argument("--input_folder", type=str, help="Path to the input folder containing bootstrap tree files.", default="BT_S2") # "50c500m"
+    parser.add_argument("--base_path", type=str, help="Base path for the files", default=r"../data/results")
     parser.add_argument("--model", type=str, help="Model used for the bootstrap samples.", default="sciterna")
     parser.add_argument("--simulated", type=bool, help="Run on simulated data.", default=False)
     parser.add_argument("--n_samples", type=int, help="Number of simulated samples to process.", default=100)
     parser.add_argument("--round", type=int, help="Which round to use. Each round updates optimized SNV specific and global parameters like dropout probabilities", default=1)
-    parser.add_argument("--n_bootstrap", type=int, help="Number of bootstrap samples to process.", default=1000)
+    parser.add_argument("--n_bootstrap", type=int, help="Number of bootstrap samples to process.", default=200)
     args = parser.parse_args()
 
     model = args.model
@@ -138,11 +138,16 @@ def main():
             path_parent = os.path.join(path, f"{model}_parent_vec", f"{model}_parent_vec_{round}r{test}.txt")
             path_selected = os.path.join(path, f"{model}_selected_loci", f"{model}_selected_loci_{round}r{test}.txt")
 
-            if not os.path.exists(path_parent) or not os.path.exists(path_selected):
+            if not os.path.exists(path_parent):
+                print(f"Missing files for sample {s}, test {test}. Skipping.")
                 continue
 
             parent_vec = np.loadtxt(path_parent, dtype=int)
-            selected_mutations = np.loadtxt(path_selected, dtype=int)
+
+            if not os.path.exists(path_selected):
+                selected_mutations = []
+            else:
+                selected_mutations = np.loadtxt(path_selected, dtype=int)
 
             n_cells = int(((len(parent_vec) + 1) / 2))
 
@@ -161,7 +166,7 @@ def main():
                 if norm is not None:
                     split_counter[norm] += 1
 
-        consensus_tree = trees.consensus(min_freq=0.01, resolve_polytomies=True, suppress_unifurcations=True)
+        consensus_tree = trees.consensus(min_freq=0.001, resolve_polytomies=True, suppress_unifurcations=True)
         consensus_tree.resolve_polytomies(update_bipartitions=False)
         annotate_clade_frequencies(consensus_tree, split_counter, total_trees=n_bootstrap)
         print(consensus_tree.as_ascii_plot(show_internal_node_labels=True))

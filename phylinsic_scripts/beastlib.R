@@ -376,7 +376,7 @@ run.more.beast <- function(beast.infile, beast.outfile, num.iter=NULL,
   rng.seed=0, beast2.folder=NULL) {
   # If num.iter is NULL, will run with the same iterations as before.
   # Otherwise, will run for this number of iterations.
-  # beast2.folder is where beast2 is installed.  Default is
+  # beast2.folder is where beast2 is installed. Default is
   # "/usr/local".
 
   if(!file.exists(beast.infile))

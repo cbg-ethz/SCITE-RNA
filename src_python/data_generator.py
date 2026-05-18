@@ -170,7 +170,7 @@ class DataGenerator:
             else:
                 # Both alleles still present
                 cna = (ref_alleles + alt_alleles)
-                alpha_h = (alt_alleles / cna) * overdispersion_h * cna # scale with copy number to maintain hill shape
+                alpha_h = (alt_alleles / cna) * overdispersion_h * cna # scale with copy number as higher copy numbers should lead to less variation in read counts
                 beta_h = overdispersion_h * cna - alpha_h
                 n_alt = betabinom_rvs(coverage, alpha_h, beta_h)
         else:
@@ -178,6 +178,56 @@ class DataGenerator:
 
         n_ref = coverage - n_alt
         return n_ref, n_alt
+
+    def apply_tree_cnas(self):
+        """
+        Apply CNAs by placing them on the tree.
+        For each locus affected by CNA:
+            1. Sample a copy number
+            2. Place the CNA randomly on a branch of the tree
+            3. All cells descending from that branch are affected
+        """
+        for j in range(self.n_mut):
+            if np.random.random() > self.CNV_fraction:
+                continue  # locus not affected by any CNA
+
+            # Sample copy number
+            cnv = np.random.choice([1, 3, 4, 5, 6])
+
+            # Place CNA on a random node/branch of the tree
+            # All cells descending from that node are affected
+            internal_nodes = list(range(self.n_cells, len(self.ct.parent_vec)))
+            cna_node = np.random.choice(internal_nodes)
+            affected_cells = list(self.ct.leaves(cna_node))
+
+            for i in affected_cells:
+                # Adjust coverage
+                self.coverage[i, j] = int(cnv / 2 * self.coverage[i, j])
+
+                current_alleles = []
+                if self.genotype[i, j] == "R":
+                    current_alleles = ["ref", "ref"]
+                elif self.genotype[i, j] == "H":
+                    current_alleles = ["ref", "alt"]
+                elif self.genotype[i, j] == "A":
+                    current_alleles = ["alt", "alt"]
+
+                if cnv == 1:
+                    # Randomly drop one allele
+                    dropped_allele = np.random.choice(current_alleles)
+                    if dropped_allele == "ref":
+                        self.ref_alleles[i, j] -= 1
+                    else:
+                        self.alt_alleles[i, j] -= 1
+                else:
+                    # Duplicate alleles (cnv-2) times
+                    for _ in range(cnv - 2):
+                        chosen_allele = np.random.choice(current_alleles)
+                        if chosen_allele == "ref":
+                            self.ref_alleles[i, j] += 1
+                        else:
+                            self.alt_alleles[i, j] += 1
+                        current_alleles.append(chosen_allele)
 
 
     def generate_reads(self, new_tree=False, new_mut_type=False, new_coverage=True, num_clones="", min_value=2.5,
@@ -224,39 +274,40 @@ class DataGenerator:
                     self.ref_alleles[i, j], self.alt_alleles[i, j] = 0, 2
 
         # Apply CNVs
-        for j in range(self.n_mut):
-            for i in range(self.n_cells):
-                if np.random.random() < self.CNV_fraction:
-                    cnv = np.random.choice([1, 3, 4, 5, 6])
-
-                    self.coverage[i, j] = int(cnv/2 * self.coverage[i, j]) # adjust coverage according to CNV
-
-                    current_alleles = []
-                    if self.genotype[i, j] == "R":
-                        current_alleles = ["ref", "ref"]
-                    elif self.genotype[i, j] == "H":
-                        current_alleles = ["ref", "alt"]
-                    elif self.genotype[i, j] == "A":
-                        current_alleles = ["alt", "alt"]
-
-                    if cnv == 1:
-                        # Randomly drop one allele
-                        if current_alleles:
-                            dropped_allele = np.random.choice(current_alleles)
-                            if dropped_allele == "ref":
-                                self.ref_alleles[i, j] = self.ref_alleles[i, j] - 1
-                            else:
-                                self.alt_alleles[i, j] = self.alt_alleles[i, j] - 1
-                    else:
-                        # For CNVs > 1, duplicate alleles (cnv-2) times
-                        for _ in range(cnv - 2):
-                            chosen_allele = np.random.choice(current_alleles)
-                            if chosen_allele == "ref":
-                                self.ref_alleles[i, j] += 1
-                            else:
-                                self.alt_alleles[i, j] += 1
-                            # Update current_alleles to reflect the new allele count
-                            current_alleles.append(chosen_allele)
+        self.apply_tree_cnas()
+        # for j in range(self.n_mut): # Uncomment to apply random CNAs
+        #     for i in range(self.n_cells):
+        #         if np.random.random() < self.CNV_fraction:
+        #             cnv = np.random.choice([1, 3, 4, 5, 6])
+        #
+        #             self.coverage[i, j] = int(cnv/2 * self.coverage[i, j]) # adjust coverage according to CNV
+        #
+        #             current_alleles = []
+        #             if self.genotype[i, j] == "R":
+        #                 current_alleles = ["ref", "ref"]
+        #             elif self.genotype[i, j] == "H":
+        #                 current_alleles = ["ref", "alt"]
+        #             elif self.genotype[i, j] == "A":
+        #                 current_alleles = ["alt", "alt"]
+        #
+        #             if cnv == 1:
+        #                 # Randomly drop one allele
+        #                 if current_alleles:
+        #                     dropped_allele = np.random.choice(current_alleles)
+        #                     if dropped_allele == "ref":
+        #                         self.ref_alleles[i, j] = self.ref_alleles[i, j] - 1
+        #                     else:
+        #                         self.alt_alleles[i, j] = self.alt_alleles[i, j] - 1
+        #             else:
+        #                 # For CNVs > 1, duplicate alleles (cnv-2) times
+        #                 for _ in range(cnv - 2):
+        #                     chosen_allele = np.random.choice(current_alleles)
+        #                     if chosen_allele == "ref":
+        #                         self.ref_alleles[i, j] += 1
+        #                     else:
+        #                         self.alt_alleles[i, j] += 1
+        #                     # Update current_alleles to reflect the new allele count
+        #                     current_alleles.append(chosen_allele)
 
         for i in range(self.n_cells):
             for j in range(self.n_mut):

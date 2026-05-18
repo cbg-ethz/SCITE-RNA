@@ -8,3 +8,15 @@ data/varia
 /data/input_data/BT_S2/gene_expression_counts.csv # file size too large, extract from zip locally
 data/input_data/BT_S2/gene_expression_counts.csv
 /.snakemake/
+data/results/mm34/sciterna_bootstrapping/sciterna_parent_vec
+data/results/mm16/sciterna_bootstrapping/sciterna_parent_vec
+data/results/50c500m/sciterna_bootstrapping/sciterna_parent_vec
+/data/results/50c500m/
+/data/results/50c500m5/
+/data/results/50c500m10/
+/data/results/50c500m20/
+/data/results/BT_S2/sciterna_bootstrap/sciterna_genotype/
+/data/results/BT_S2/sciterna_bootstrap/sciterna_parent_vec/
+/data/results/BT_S2/sciterna_ref_plus_one/
+/data/results/mm16/sciterna_bootstrap/sciterna_parent_vec/
+/data/results/mm34/sciterna_bootstrap/sciterna_parent_vec/

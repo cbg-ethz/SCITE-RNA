@@ -17,8 +17,8 @@ int main(int argc, char* argv[]) {
         return 1;
     }
 
-    std::string sample_dir = argv[1]; // e.g., "50c500m" (only for simulated data), otherwise use real_data_processing.cpp
-    int idx = std::stoi(argv[2]); // simulated sample id
+    std::string sample_dir = "500c100m"; //argv[1]; // e.g., "50c500m" (only for simulated data), otherwise use real_data_processing.cpp
+    int idx = 0; //std::stoi(argv[2]); // simulated sample id
 
     std::string input_path = "../data/simulated_data/" + sample_dir + "/";
     std::string output_path = "../data/results/" + sample_dir + "/sciterna_" + std::to_string(idx);
@@ -41,6 +41,7 @@ int main(int argc, char* argv[]) {
     bool reshuffle_nodes = true; // whether to reshuffle the nodes in the mutation tree space by pruning and re-inserting individual nodes
     bool load_from_file = false; // if true, load the selected mutations and genotypes from file, otherwise preprocess the data
     bool reduced_output = true; // if true doesn't save the genotype and mutation indicator files
+    bool flipped_mutation_direction = true; // allow to change the root genotype during tree inference
 
     generate_sciterna_results(ref, alt, input_path, output_path,
                               bootstrap_samples, use_bootstrap, tree_space,

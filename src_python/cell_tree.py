@@ -1,12 +1,10 @@
 """
 Defines the cell lineage tree and how it is optimized.
 """
-import time
 
 import numpy as np
 import graphviz
 import warnings
-import random
 
 from src_python.tree_base import PruneTree
 from src_python.utils import load_config_and_set_random_seed

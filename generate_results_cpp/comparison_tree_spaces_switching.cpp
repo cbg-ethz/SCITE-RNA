@@ -35,7 +35,7 @@ int main() {
                     path_results += "/";
                 }
             }
-            generate_sciterna_simulation_results(path, path_results, n_tests, space, flipped_mutation_direction, n_mut, n_rounds);
+            generate_sciterna_simulation_results(path, path_results, n_tests, space, flipped_mutation_direction, n_mut, n_rounds, true);
         }
     }
     return 0;

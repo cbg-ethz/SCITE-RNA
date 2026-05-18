@@ -48,5 +48,4 @@ param_combinations=(
 
 APPENDIX=${param_combinations[$SLURM_ARRAY_TASK_ID]}
 
-# Run Snakemake with the selected APPENDIX
 snakemake --config APPENDIX="$APPENDIX" --use-conda -j 5 --rerun-incomplete

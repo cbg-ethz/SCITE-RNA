@@ -8,9 +8,8 @@
 #SBATCH --mem-per-cpu=8G
 #SBATCH --time=10:00:00
 
-INPUT_DIR="50c500m5"
+INPUT_DIR="50c500m"
 
-cd build_test
+cd build
 
-# Run the program with input directory and array index
 ./SCITE-RNA "$INPUT_DIR" "$SLURM_ARRAY_TASK_ID"
